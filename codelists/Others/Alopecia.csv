@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+19754005,Alopecia totalis,Alopecia Areata,,['Lauren_codelist'],LW doesn't mind if this isn't included
+5860009,Ophiasis,Alopecia Areata,,['Lauren_codelist' 'Lauren_codelist'],LW doesn't mind if this isn't included
+68225006,Alopecia areata,Alopecia Areata,,['Lauren_codelist'],LW doesn't mind if this isn't included
+68225006,[X]Other alopecia areata,Alopecia Areata,,['Lauren_codelist'],LW doesn't mind if this isn't included
+86166000,Alopecia universalis,Alopecia Areata,,['Lauren_codelist'],LW doesn't mind if this isn't included

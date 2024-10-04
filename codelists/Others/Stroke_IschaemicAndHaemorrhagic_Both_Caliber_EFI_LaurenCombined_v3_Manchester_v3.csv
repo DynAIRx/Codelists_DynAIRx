@@ -1,0 +1,53 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+195209007,Middle cerebral artery syndrome,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195210002,Anterior cerebral artery syndrome,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195211003,Posterior cerebral artery syndrome,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195213000,Cerebellar stroke syndrome (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195212005,Brainstem stroke syndrome,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195216008,Left sided cerebral hemisphere cerebrovascular accident,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195217004,Right sided CVA,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+230690007,CVA - Cerebrovascular accident,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+275434003,Stroke in the puerperium,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+281240008,Extension of cerebrovascular accident (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+230713003,Stroke of uncertain pathology (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+230714009,Anterior circulation stroke of uncertain pathology (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+230715005,Posterior circulation stroke of uncertain pathology (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+230702001,Lacunar ataxic hemiparesis (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+24654003,Weber-Gubler syndrome (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+25133001,Completed stroke (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+276221006,Millard-Gubler syndrome (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined_v3 And ManchesterRichardWilliams_Stroke.csv
+195200006,Carotid artery syndrome hemispheric,Caliber - Ischaemic Stroke,Excluding non matching rows from StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv as these were already included in StrokeIschaemic_Caliber_EFI_LaurenCombined.csv,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv
+195201005,Multiple and bilateral precerebral artery syndromes,Caliber - Ischaemic Stroke,Excluding non matching rows from StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv as these were already included in StrokeIschaemic_Caliber_EFI_LaurenCombined.csv,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv
+230699008,Pure motor lacunar syndrome,Caliber - Ischaemic Stroke,Excluding non matching rows from StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv as these were already included in StrokeIschaemic_Caliber_EFI_LaurenCombined.csv,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber.csv And Stroke_IschaemicAndHaemorrhagic_Both.csv
+230739000,Spinal cord stroke,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+306803007,Admission to stroke unit,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+426891000000103,[X]Other lacunar syndromes,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+230703006,Dysarthria-clumsy hand syndrome (disorder),Caliber - Ischaemic Stroke ,move to Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined.csv,['Caliber'],StrokeIschaemic_Caliber.csv
+276220007,Foville syndrome (disorder),Caliber - Ischaemic Stroke ,move to Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined.csv,['Caliber'],StrokeIschaemic_Caliber.csv
+16371800000000000,Cerebellar stroke (disorder),Caliber - Ischaemic Stroke ,move to Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined.csv,['Caliber'],StrokeIschaemic_Caliber.csv
+16371800000000000,Cerebellar stroke (disorder),Caliber - Ischaemic Stroke ,move to Stroke_IschaemicAndHaemorrhagic_Both_Caliber_EFI_LaurenCombined.csv,['Caliber'],StrokeIschaemic_Caliber.csv
+230706003,Hemorrhagic cerebral infarction (disorder),Caliber - Stroke NOS,,['Caliber'],covid_impact_ccu000_England_stroke_NOS_SNOMEDCT.csv And covid_impact_ccu00202_stroke_NOS_England_SNOMEDCT.csv And covid_impact_ccu00202_stroke_NOS_England_SNOMEDCT.csv
+230708002,Posterior cerebral circulation hemorrhagic infarction (disorder),Caliber - Stroke NOS,,['Caliber'],covid_impact_ccu000_England_stroke_NOS_SNOMEDCT.csv And covid_impact_ccu00202_stroke_NOS_England_SNOMEDCT.csv And covid_impact_ccu00202_stroke_NOS_England_SNOMEDCT.csv
+230707007,Anterior cerebral circulation hemorrhagic infarction (disorder),Caliber - Stroke NOS,,['Caliber'],covid_impact_ccu000_England_stroke_NOS_SNOMEDCT.csv And covid_impact_ccu00202_stroke_NOS_England_SNOMEDCT.csv And covid_impact_ccu00202_stroke_NOS_England_SNOMEDCT.csv
+62914000,Cerebrovascular disease, Stroke CVA and Stroke,,['Lauren_codelist and efi'],Stroke_Ischaemic.csv
+14309005,Anterior choroidal artery syndrome (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+292851000119109,Lacunar ataxic hemiparesis of right dominant side (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+330421000119102,Lacunar ataxic hemiparesis of right nondominant side (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+595899961000119000,Cerebrovascular accident of basal ganglia (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+652287331000119000,Cerebrovascular accident of brainstem (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+111297002,Nonparalytic stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+116288000,Paralytic stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16371781000119100,Cerebellar stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+292861000119106,Lacunar ataxic hemiparesis of left dominant side (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+330411000119109,Lacunar ataxic hemiparesis of left nondominant side (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+444657001,Superior cerebellar artery syndrome (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+57981008,Progressing stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+724429004,Stroke co-occurrent with migraine (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+769023031000119000,Cerebrovascular accident of thalamus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+881694631000119000,Cerebrovascular accident of medulla oblongata (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+266312006,Cerebrovascular: [disease] or [accident],Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+266315008,(Cerebral infarct) or (cerebrovascular accident) or (undefined stroke/CVA) or (stroke NOS),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+41713005,Benedikt's syndrome (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+12204031000119100,Cerebrovascular accident following procedure on heart (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+200328002,Cerebrovascular disorders in the puerperium (& [CVA - cerebrovascular accident]),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+6594005,Cerebrovascular disorder in the puerperium (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv

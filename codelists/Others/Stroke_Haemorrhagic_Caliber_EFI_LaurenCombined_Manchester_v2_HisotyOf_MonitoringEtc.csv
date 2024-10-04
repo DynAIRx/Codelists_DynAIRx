@@ -1,0 +1,4 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+417506008,Haemorrhagic stroke monitoring,Intracerebral Haemorrhage and Stroke,,['Lauren_codelist and efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+195241001,Sequelae of intracerebral haemorrhage,Intracerebral Haemorrhage,,['Lauren_codelist'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+363302008,Sequelae of other non-traumatic intracranial haemorrhage,Stroke,,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv

@@ -1,0 +1,149 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+233823002,Silent myocardial ischaemia,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+129574000,Postoperative myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+311792005,Postoperative transmural myocardial infarction anterior wall,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+311796008,Postoperative subendocardial myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+129574000,"Postoperative myocardial infarction, unspecified",Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+57054005,[X]Acute transmural myocardial infarction of unspecif site,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194868001,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+57054005,Acute myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+398274000,Coronary thrombosis,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233847009,Cardiac rupture following myocardial infarction (MI),Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+22298006,Heart attack,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233843008,Silent myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+70211005,Acute anterolateral infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+54329005,Other specified anterior myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+52035003,Acute anteroapical infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+54329005,Anterior myocardial infarction NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+76593002,Acute inferoposterior infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233838001,Posterior myocardial infarction NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+58612006,Lateral myocardial infarction NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194802003,True posterior myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+70422006,Acute subendocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+307140009,Acute non-Q wave infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+401314000,Acute non-ST segment elevation myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+73795002,Inferior myocardial infarction NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+304914007,Acute Q-wave infarct,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+91335003,Mural thrombosis,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+15990001,Acute posterolateral myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+57054005,Acute transmural myocardial infarction of unspecif site,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+401303003,Acute ST segment elevation myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+57054005,Other acute myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194809007,Acute atrial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+10273003,Acute papillary muscle infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+79009004,Acute septal infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+57054005,Other acute myocardial infarction NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+57054005,Acute myocardial infarction NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+66189004,Postmyocardial infarction syndrome,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+66189004,Dressler's syndrome,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Preinfarction syndrome,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+25106000,Impending infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194821006,MI - Myocardial infarction aborted,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Preinfarction syndrome NOS,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194823009,Acute coronary insufficiency,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+42531007,Microinfarction of heart,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+46109009,Subendocardial ischaemia,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194865003,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,Coronary Heart Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233885007,Post infarction pericarditis,Coronary Heart Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+315287002,Diab mellit insulin-glucose infus acute myocardial infarct,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+62695002,Acute anteroseptal infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+371068009,Certain current complication follow acute myocardial infarct,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+194862000,Haemopericardium/current comp folow acut myocard infarct,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233846000,Ventric septal defect/curr comp fol acut myocardal infarctn,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+194866002,Ruptur chordae tendinae/curr comp fol acute myocard infarct,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+194867006,Rupture papillary muscle/curr comp fol acute myocard infarct,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233826005,Acute non-Q infarct-anterosept,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233828006,Acute non-Q infarct-anterolat,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233829003,Acute Q infarct-inferior,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233830008,Acute non-Q infarct-inferior,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233831007,Acute Q infarct-inferolateral,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233832000,Acute non-Q infarct-inferolat,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233834004,Acute non-Q infarct-lateral,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233836002,Acute Q infarct-widespread,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+314207007,Non-Q wave myocardial infarctn,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+1089431000000107,Postoperative nontransmural myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1089451000000100,Acute nontransmural myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1089471000000109,Acute transmural myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1163440003,Postoperative acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1204152002,Acute inferior non-ST segment elevation myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1204222000,Acute non-ST segment elevation myocardial infarction of right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+12238111000119106,Acute ST segment elevation myocardial infarction of inferolateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+123642008,Right coronary artery occlusion (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15712841000119100,Acute ST segment elevation myocardial infarction of posterolateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15712881000119105,Acute ST segment elevation myocardial infarction of anterolateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15712921000119103,Acute ST segment elevation myocardial infarction of lateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15713041000119103,Acute ST segment elevation myocardial infarction of posterior wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15713081000119108,Acute ST segment elevation myocardial infarction due to left coronary artery occlusion (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15713121000119105,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15713161000119100,Acute ST segment elevation myocardial infarction of septum (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15713201000119105,Acute ST segment elevation myocardial infarction of posterobasal wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960981000119105,Mural thrombus of left ventricle following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+16415081000119104,Supraventricular tachycardia following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+16837681000119104,Myocardial infarction due to demand ischemia (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+17531000119105,Acute myocardial infarction due to left coronary artery occlusion (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+282006,Acute myocardial infarction of basal-lateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+285981000119103,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+59063002,Acute myocardial infarction of apical-lateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+64627002,Acute myocardial infarction of high lateral wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703164000,Acute ST segment elevation myocardial infarction of anterior wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703212004,Acute myocardial infarction during procedure (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703253007,Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+723859005,Pulmonary embolism due to and following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+723860000,Arrhythmia due to and following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+723861001,Cardiogenic shock unrelated to mechanical complications as current complication following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+726499301000119105,Myocardial infarction due to atherothrombotic coronary artery disease (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+836294006,Acute myocardial infarction of apex of heart (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+840309000,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of anterior descending branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+840609007,Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+840680009,Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+846668006,Acute ST segment elevation myocardial infarction due to occlusion of diagonal branch of anterior descending branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+846683001,Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+868220007,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+868225002,Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+868226001,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1204151009,Acute inferior non-ST segment elevation myocardial infarction of right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1204154001,Acute anterior non-ST segment elevation myocardial infarction with right ventricular involvement (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1204155000,Acute anterior non-ST segment elevation myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1208867006,Ventricular thrombus following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1208872002,Subsequent anterior non-ST segment elevation myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1208873007,Subsequent inferior non-ST segment elevation myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+12238151000119107,Acute ST segment elevation myocardial infarction of inferoposterior wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15712961000119108,Acute ST segment elevation myocardial infarction of anteroseptal wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+1641000119107,Coronary arteriosclerosis in native artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+23311000119105,Acute myocardial infarction due to right coronary artery occlusion (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+285991000119100,Acute ST segment elevation myocardial infarction involving left main coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+30277009,Rupture of ventricle due to acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703165004,Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703209002,Subsequent ST segment elevation myocardial infarction of inferior wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703210007,Subsequent ST segment elevation myocardial infarction of anterior wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703211006,Subsequent ST segment elevation myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703213009,Acute ST segment elevation myocardial infarction of inferior wall (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703251009,Acute myocardial infarction of inferior wall involving right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703252002,Acute myocardial infarction of anterior wall involving right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703326006,Mitral valve regurgitation due to and following acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+703360004,Subsequent non-ST segment elevation myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+70998009,Acute myocardial infarction of basal inferior segment of left ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+71023004,Pericarditis due to acute myocardial infarction (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+836293000,Acute myocardial infarction of right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+836295007,Acute myocardial infarction of inferolateral wall with posterior extension (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+840312002,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of anterior descending branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+840316004,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of anterior descending branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+868214006,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of right coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+868217004,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of right coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+868224003,Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+879955009,Myocardial infarction with non-obstructive coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+896689003,Acute myocardial infarction due to occlusion of circumflex branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+896691006,Acute ST segment elevation myocardial infarction due to occlusion of circumflex branch of left coronary artery (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+896696001,Acute ST segment elevation myocardial infarction of apex of heart (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+896697005,Acute ST segment elevation myocardial infarction of right ventricle (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+194796000,(Myocardial infarction (& [acute] or [silent] or [cardiac rupture following])) or (coronary thrombosis),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+266288001,Myocardial infarction (& [acute]) or coronary thrombosis,Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+65547006,Acute myocardial infarction of interolateral wall,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233825009,Acute Q wave infarction or Acute Q wave infarction - anterseptal (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233827001,Acute Q wave infarction - anterolateral,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233833005,Acute Q wave infarction - lateral,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233835003,Acute widespread myocardial infarction (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233837006,Acute non-Q wave infarction - widespread (disroder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+311793000,Postoperative transmural myocardial infarction of inferior wall,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+394710008,First myocardial infarction (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+810681000000101,Coronary microvascular disease (disorder),Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv

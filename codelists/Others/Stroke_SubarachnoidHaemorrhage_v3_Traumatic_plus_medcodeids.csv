@@ -1,0 +1,8 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,262955000,5459291000006118,2,^ESCTTR545929,NA,Traumatic intracranial subarachnoid hemorrhage,391047018,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA
+2,262955000,5459301000006117,30,^ESCTTR545930,NA,Traumatic cranial subarachnoid haemorrhage,391049015,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA
+3,262955000,13796131000006110,1000,^ESCT1379613,NA,Subarachnoid haemorrhage due to traumatic injury,3751366018,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA
+4,262955000,5459271000006119,500,^ESCTTR545927,NA,Traumatic intracranial subarachnoid haemorrhage,391048011,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA
+5,262955000,5459281000006116,8,^ESCTTR545928,NA,Traumatic cranial subarachnoid hemorrhage,391046010,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA
+6,450375008,391042012,500,S62-2,S62..12,Subarachnoid haemorrhage following injury,2915309017,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA
+7,450375008,391043019,3000,S627,S627.00,Traumatic haemorrhage into subarachnoid space of neuraxis,2915656010,NA,32,Traumatic subarachnoid haemorrhage,Stroke,NA,['efi'],NA

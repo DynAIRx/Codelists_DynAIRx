@@ -1,0 +1,7 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+751371000000107,Personal history of transient ischaemic attack (situation),Caliiber - TIA,,['Caliber'],covid_impact_ccu000_England_stroke_TIA_SNOMEDCT.csv And covid_impact_ccu00201_stroke_TIA_England_SNOMEDCT.csv And covid_impact_ccu00202_stroke_TIA_England_SNOMEDCT.csv
+161511000,H/O: TIA,Transient Ischaemic Attack,,['Lauren_codelist and efi'], TIA_v2.csv
+751371000000107,[V]Pers hist trans isch attack,Transient Ischaemic Attack,,['efi'], TIA_v2.csv
+415631003,Stroke/transient ischaemic attack monitoring third letter,Stroke,,['efi'], TIA_v2.csv
+415630002,Stroke/transient ischaemic attack monitoring status,Stroke,,['efi'], TIA_v2.csv
+717241000000108,Stroke/transient ischaemic attack monitoring telephone invte,Stroke,,['efi'], TIA_v2.csv

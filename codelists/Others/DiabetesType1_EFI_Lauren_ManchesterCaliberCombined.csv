@@ -1,0 +1,85 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+420486006,Type 1 diabetes mellitus with exudative maculopathy,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+401110002,Type I diabetes mellitus with persistent microalbuminuria,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+71771000119100,Type 1 diabetes mellitus with neuropathic arthropathy,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+314893005,Type 1 diabetes mellitus with arthropathy,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+237632004,Insulin dependent diabetes mellitus with hypoglycaemic coma,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+314771006,Type 1 diabetes mellitus with hypoglycaemic coma,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+313435000,Type I diabetes mellitus without complication,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+313435000,Type 1 diabetes mellitus without complication,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190372001,Type I diabetes mellitus maturity onset,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190372001,Type 1 diabetes mellitus maturity onset,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+444073006,Type I diabetes mellitus - poor control,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+444073006,Type 1 diabetes mellitus - poor control,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190369008,Type I diabetes mellitus with gangrene,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190369008,Type 1 diabetes mellitus with gangrene,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190368000,Type I diabetes mellitus with ulcer,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190368000,Type 1 diabetes mellitus with ulcer,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+290002008,Unstable type I diabetes mellitus,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+290002008,Unstable type 1 diabetes mellitus,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+421893009,Type 1 diabetes mellitus with renal complications,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+46635009,Type I diabetes mellitus,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+46635009,Type 1 diabetes mellitus,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+421893009,Type 1 diabetes mellitus with renal complications,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+421893009,Type I diabetes mellitus with renal complications,Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+190330002,"Diabetes mellitus, juvenile type, with hyperosmolar coma",Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+313435000,"Diabetes mellitus, juvenile type, no mention of complication",Diabetes Type One,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2 AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+111552007,Insulin-dependent diabetes without complication,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+11530004,Unstable insulin dependent diabetes mellitus,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+73211009,Insulin dependent diabetes mellitus,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+111552007,Insulin-dependent diabetes without complication,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+11530004,Unstable insulin dependent diabetes mellitus,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+421895002,IDDM with peripheral circulatory disorder,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+73211009,Insulin dependent diabetes mellitus,Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+385051000000106,"Pre-existing diabetes mellitus, insulin-dependent",Diabetes Type One,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesSplitIntoType1or2
+279291000000109,diabetes type 1 review,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+754101000000103,type i diabetic dietary review,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420270002,Type 1 diabetes mellitus with ketoacidosis,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421075007,Type 1 diabetes mellitus with ketoacidotic coma,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+739681000,"diabetes mellitus, juvenile type, + ophthalmic manifestation",Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421165007,type 1 diabetes mellitus with ophthalmic complications,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421468001,Type I diabetes mellitus with neurological complications,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+422228004,Type I diabetes mellitus with multiple complications,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+385041000000108,Type I diabetes mellitus with multiple complications,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+422183001,insulin dependent diabetes mellitus with ulcer,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420825003,Type I diabetes mellitus with gangrene,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420789003,Type I diabetes mellitus with retinopathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+230577008,insulin dependent diabetes mellitus with mononeuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420918009,type i diabetes mellitus with mononeuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+713705003,insulin dependent diabetes mellitus with polyneuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+49455004,insulin dependent diabetes mellitus with polyneuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421920002,insulin dependent diabetes mellitus with diabetic cataract,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+31211000119101,insulin dependent diab mell with peripheral angiopathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421365002,insulin dependent diab mell with peripheral angiopathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+201724008,type i diabetes mellitus with neuropathic arthropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421468001,Diab.mell.+neuropathy-juvenile,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+201724008,IDDM with neuropath arthropath,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+713702000,Type 1 diabetes mellitus with gastroparesis,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+304752002,perceived control of insulin-dependent diabetes,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420918009,insulin dependent diabetes mellitus with mononeuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+230577008,type 1 diabetes mellitus with mononeuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+713705003,type 1 diabetes mellitus with polyneuropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+472970003,H/O: diabetes mellitus type 1,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+421725003,IDDM with hypoglycaemic coma,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+49817004,neonatal diabetes mellitus,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+324301000119107,undefined,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+237618001,Insulin-dependent diabetes mellitus secretory diarrhoea synd,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+19429009,type 1 diabetes mellitus with ulcer,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+39710007,type 1 diabetes mellitus with arthropathy,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420514000,type 1 diabetes mellitus with persistent proteinuria,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+703137001,type i diabetes mellitus in remission,Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+420868002,"diabetes mellitus, juvenile type, + unspecified complication",Diabetes Type One,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesSplitIntoType1or2
+23045005,Insulin dependent diabetes mellitus type IA,Diabetes Type One,,['Manchester],diabetes-type-i.snomed
+28032008,Insulin dependent diabetes mellitus type IB,Diabetes Type One,,['Manchester],diabetes-type-i.snomed
+199229001,Pre-existing type 1 diabetes mellitus,Diabetes Type One,,['Manchester],diabetes-type-i.snomed
+1255271005,"Juvenile-onset diabetes mellitus, central and peripheral neurodegeneration syndrome (disorder)",Diabetes Type One,,['Manchester],diabetes-type-i.snomed
+104941000119109,Retinal ischemia due to type 1 diabetes mellitus,Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+367991000119101,Hyperglycemia due to type 1 diabetes mellitus,Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+1067201000000106,Eating disorder co-occurrent with diabetes mellitus type 1 (disorder),Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+111307005,Leprechaunism syndrome (disorder),Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+754461000000105,Referral to type I diabetes structured education programme (procedure),Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+80660001,Mauriac's syndrome (disorder),Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+83728000,"Polyglandular autoimmune syndrome, type 2 (disorder)",Diabetes,,['Caliber'],covid_impact_ccu00201_diabetes_England_SNOMEDCT AND covid_impact_ccu00202_diabetes_England_SNOMEDCT AND covid_impact_ccu000_England_diabetes_SNOMEDCT AND carr_diabetes_jQLxtg2Z3zPcXWge5Nv9tU_SNOMEDCT
+444074000,Type I diabetes mellitus well controlled (finding),DiabetesType1,Q code group Type 1 diabetes,['Manchester'],edh_t1dia_medcoideid.csv
+31321000119102,Diabetes mellitus type 1 without retinopathy (disorder),DiabetesType1,Q code group Type 1 diabetes,['Manchester'],edh_t1dia_medcoideid.csv
+82581000119105,Rubeosis iridis co-occurrent and due to type 1 diabetes mellitus (disorder),DiabetesType1,Q code group Type 1 diabetes,['Manchester'],edh_t1dia_medcoideid.csv

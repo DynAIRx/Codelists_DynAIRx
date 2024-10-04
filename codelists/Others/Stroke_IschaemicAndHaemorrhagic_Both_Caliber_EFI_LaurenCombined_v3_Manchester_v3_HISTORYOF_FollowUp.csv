@@ -1,0 +1,15 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+275526006,[V]Personal history of stroke,Stroke CVA,,['Lauren_codelist and efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+275526006,H/O: CVA/stroke,Stroke CVA,Reduced this code to just on as it had 3 duplicates in earlier version of file,['Lauren_codelist and efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+308067002,H/O: Stroke in last year,Stroke CVA,,['Lauren_codelist and efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+277286006,Central post-stroke pain,Stroke CVA,,['Lauren_codelist and efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+699270006,Stroke/CVA annual review,Stroke CVA,,['Lauren_codelist and efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+428011000000100,[V]Personal history of cerebrovascular accident (CVA),Stroke CVA,,['Lauren_codelist'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+112901000000108,Ref to multidisciplinary stroke function improvement service,Stroke CVA,,['Lauren_codelist'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+195239002,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction",Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+2517002,Stroke rehabilitation,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+716581000000101,Excepted from stroke quality indicators: Patient unsuitable,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+716021000000109,Excepted from stroke quality indicators: Informed dissent,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+231231000000107,Delivery of rehabilitation for stroke,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+521411000000106,Did not attend stroke review,Stroke,,['efi'],Stroke_IschaemicAndHaemorrhagic_Both.csv
+519751000000106,Stroke/cerebrovascular accident 6 month review,Stroke,,['efi'],

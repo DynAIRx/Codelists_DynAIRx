@@ -1,0 +1,2 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+21861000,Micronodular cirrhosis,Liver Disease - Unknown,,['efi'],"Newly added after splitting condition ""Liver problems"" and Disease name is given by DynAIRx-Asra after Sam Discussion, Renamed ""Liver Disease - Other"" to ""Liver Disease - Unknown"""

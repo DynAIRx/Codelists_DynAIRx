@@ -1,0 +1,17 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+401110002,Type I diabetes mellitus with persistent microalbuminuria,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+421893009,Type 1 diabetes mellitus with renal complications,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+420279001,Type 2 diabetes mellitus with renal complications,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+420279001,Type II diabetes mellitus with renal complications,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+420279001,Non-insulin-dependent diabetes mellitus with renal comps,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+421893009,Type 1 diabetes mellitus with renal complications,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+421893009,Type I diabetes mellitus with renal complications,Diabetes Mellitus,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+127013003,diabetes mellitus with renal manifestation,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+420514000,type 1 diabetes mellitus with persistent proteinuria,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+421986006,type ii diabetes mellitus with persistent proteinuria,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+420715001,type 2 diabetes mellitus with persistent microalbuminuria,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+197605007,nephrotic syndrome in diabetes mellitus,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+236500003,proteinuric diabetic nephropathy,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+197679002,[x]glomerular disorders in diabetes mellitus,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+236499007,Diabetes mellitus with persistent microalbuminuria,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+397201000000107,[X]Unspecified diabetes mellitus with renal complications (disorder),Diabetes,,['Manchester],efi-diabetes.snomed.txt

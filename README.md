@@ -44,7 +44,7 @@ You can access the full paper [here](https://www.medrxiv.org/content/early/2024/
 
 ## Author
 
-- **Dr Asra Aslam** _(onbhalf of DynAIRx)_
+- **Dr Asra Aslam** _(onbehalf of DynAIRx)_
     - GitHub: [@AsraAslam7] [GitHub](https://github.com/johndoe), [LinkedIn](https://www.linkedin.com/in/asra-aslam-phd-501a4261/), [HomePage](https://www.asraaslam.com/)
     - Email: a.aslam2@leeds.ac.uk, asra.aslam@outlook.com
     
