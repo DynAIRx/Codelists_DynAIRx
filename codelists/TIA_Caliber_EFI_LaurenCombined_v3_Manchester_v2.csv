@@ -1,0 +1,17 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+266257000,[X]Other transnt cerebral ischaemic attacks+related syndroms,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+230716006,Carotid territory transient ischaemic attack,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+230717002,Vertebro-bas trans ischaem att,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+195206000,Intermittent cerebral ischaemia,TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+15258001,Subclavian steal syndrome (disorder),TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+195205001,Impending cerebral ischemia (disorder),TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+444172003,Recurrent transient cerebral ischemic attack (disorder),TIA - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],tia.snomed.txt And TIA_Caliber_EFI_LaurenCombined_v3.csv
+88032003,Amaurosis fugax,Transient Ischaemic Attack,,['Lauren_codelist and efi'], TIA_v2.csv
+1208871009,Transient ischemic attack co-occurrent with subarachnoid hemorrhage (disorder),TIA - Manchester,,['Manchester'],tia.snomed.txt
+195201005,Multiple and bilateral precerebral artery syndromes (disorder),TIA - Manchester,,['Manchester'],tia.snomed.txt
+16218291000119100,Acute cerebral ischemia (disorder),TIA - Manchester,,['Manchester'],tia.snomed.txt
+195200006,Carotid artery syndrome hemispheric (disorder),TIA - Manchester,,['Manchester'],tia.snomed.txt
+426814001,Transient cerebral ischemia due to atrial fibrillation (disorder),TIA - Manchester,,['Manchester'],tia.snomed.txt
+1208871009,Transient ischemic attack co-occurrent with subarachnoid hemorrhage (disorder),TIA - Manchester,,['Manchester'],tia.snomed.txt
+195196001,(Drop attack) or (transient cerebral ischaemia) or (vertebro-basilar insufficiency),TIA - Manchester,,['Manchester'],tia.snomed.txt
+266314007,(Transient ischaemic attacks) or (vertebro-basilar insufficiency) or (drop attacks),TIA - Manchester,,['Manchester'],tia.snomed.txt

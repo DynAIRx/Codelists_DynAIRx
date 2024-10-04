@@ -1,0 +1,5 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+195042002,Second degree atrioventricular block,Heart block,,['Lauren_codelist'], Renamed disease Atrioventricular Block Second Degree to Heart block
+27885002,Complete atrioventricular block,Heart block,,['Lauren_codelist'], Renamed disease Atrioventricular Block Complete to Heart block
+27885002,Third degree atrioventricular block,Heart block,,['Lauren_codelist'], Renamed disease Atrioventricular Block Completee to Heart block
+28189009,Mobitz type II atrioventricular block,Heart block,,['Lauren_codelist'],Renamed disease Atrioventricular Block Second Degree to Heart block

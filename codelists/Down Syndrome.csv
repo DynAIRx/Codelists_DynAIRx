@@ -1,0 +1,8 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+205615000,"Trisomy 21, meiotic nondisjunction",Down Syndrome,,['Lauren_codelist']
+254264002,Partial trisomy 21 in Down's syndrome,Down Syndrome,,['Lauren_codelist']
+41040004,Down's syndrome - trisomy 21,Down Syndrome,,['Lauren_codelist']
+41040004,Down's syndrome NOS,Down Syndrome,,['Lauren_codelist']
+41040004,Mongolism,Down Syndrome,,['Lauren_codelist']
+41040004,Trisomy 21,Down Syndrome,,['Lauren_codelist']
+41040004,Trisomy 21 NOS,Down Syndrome,,['Lauren_codelist']

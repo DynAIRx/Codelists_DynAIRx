@@ -1,0 +1,216 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+20059004,Cerebral arterial occlusion,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+71444005,Cerebral thrombosis,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+195189003,Cerebral infarction due to thrombosis of cerebral arteries,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+75543006,Cerebral embolism,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+195190007,Cerebral infarction due to embolism of cerebral arteries,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+432504007,Cerebral infarction NOS,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+307766002,Left sided cerebral infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+307767006,Right sided cerebral infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+413102000,Infarction of basal ganglia,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+432504007,[X]Other cerebral infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+20059004,[X]Occlusion and stenosis of other cerebral arteries,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+95457000,Brainstem infarction NOS,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+95460007,Cerebellar infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+95457000,Brainstem infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+195186005,Cerebral infarction due to embolism of precerebral arteries,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230691006,Cereb art occl (& [cerebvasc acc][stroke]) or (cereb infarc),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+373606000,Cerebral thrombosis,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230694003,Total anterior cerebral circulation infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230695002,Partial anterior cerebral circulation infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230698000,Lacunar infarction,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230693009,Ant cereb circulation infarct,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230696001,Post cerebral circulat infarct,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230704000,Multi-infarct state,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+195230003,"Cere infct/cere vn thrm,nonpyo",Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+297138001,Embolus of circle of Willis,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+266253001,[X]Occlusion and stenosis of other precerebral arteries,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+724424009,Cerebral ischemic stroke due to small artery occlusion (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230701008,Pure sensorimotor lacunar infarction (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+307363008,Multiple lacunar infarcts (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+371041009,Embolic stroke (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+734383005,Thrombosis of left middle cerebral artery (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+87555007,Claude's syndrome (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+276219001,Occipital cerebral infarction (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+413758000,Cardioembolic stroke (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+426107000,Acute lacunar infarction (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+734384004,Thrombosis of right middle cerebral artery (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230708002,Posterior cerebral circulation hemorrhagic infarction (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+230707007,Anterior cerebral circulation hemorrhagic infarction (disorder),Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+78569004,Posterior inferior cerebellar artery syndrome,Stroke - Manchester,,['Caliber AND Either (efi OR Lauren_codelist) AND Manchester'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv And ManchesterRichardWilliams_Stroke.csv
+195185009,Cerebral infarct due to thrombosis of precerebral arteries,Caliber - Ischaemic Stroke,,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+230706003,Haemorrhagic cerebral infarction,Caliber - Ischaemic Stroke,,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+230692004,Infarction - precerebral,Caliber - Ischaemic Stroke,,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+125081000000000,"[X]Cer inf,un oc/st precer art",Caliber - Ischaemic Stroke,,['Caliber AND Either (efi OR Lauren_codelist)'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+111298007,Chronic cerebral ischaemia,Stroke,,['efi'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+140921000000000,Ischaemic stroke without coma,Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+1089420000000000,Cerebral infarction due to stenosis of cerebral artery (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+16000500000000000,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+16002000000000000,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+16002100000000000,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+329641000000000,Cerebrovascular accident due to thrombus of basilar artery (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+1089410000000000,Cerebral infarction due to occlusion of cerebral artery (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+276222004,Top of basilar syndrome (disorder),Caliber - Ischaemic Stroke,,['Caliber'],StrokeIschaemic_Caliber_EFI_LaurenCombined_v3.csv
+1089411000000100,Cerebral infarction due to occlusion of cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1089421000000100,Cerebral infarction due to stenosis of cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153544008,Occlusion of right anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153546005,Occlusion of bilateral posterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153612002,Embolism of right anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153632001,Embolism of bilateral middle cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153634000,Embolism of bilateral anterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1155697006,Embolism of left vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1155699009,Embolism of bilateral vertebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1156018007,Thrombosis of left cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1156019004,Thrombosis of right cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1156027008,Thrombus of dural sinus in pregnancy (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1156029006,Thrombus of dural sinus in puerperium (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+117776611000119000,Cerebrovascular accident due to occlusion of left posterior communicating artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+137592291000119000,Acute cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+140921000119102,Ischemic stroke without coma (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+15978431000119100,Thrombosis of right vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16000431000119100,Cerebrovascular accident due to occlusion of right middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16000511000119100,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16002031000119100,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16023911000119100,Cerebrovascular accident due to occlusion of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16024111000119100,Cerebrovascular accident due to occlusion of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16024151000119100,Cerebrovascular accident due to occlusion of left cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16026951000119100,Cerebrovascular accident due to stenosis of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16644681000119100,Cerebrovascular accident due to occlusion of bilateral pontine arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16661971000119100,Cerebrovascular accident due to stenosis of bilateral carotid arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16891111000119100,Cryptogenic stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+182960891000119000,Cerebrovascular accident due to occlusion of left anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230523009,Infarction of optic radiation (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230699008,Pure motor lacunar infarction (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230700009,Pure sensory lacunar infarction (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+239965291000119000,Cerebrovascular accident due to occlusion of basilar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+251770561000119000,Cerebrovascular accident due to embolism of left anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+302904002,Infarction of visual cortex (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329361000119107,Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329371000119101,Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329431000119105,Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329451000119104,Cerebrovascular accident due to occlusion of right cerebellar artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329481000119106,Occlusion of right middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329491000119109,Occlusion of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329541000119100,Occlusion of bilateral anterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329641000119104,Cerebrovascular accident due to thrombus of basilar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329651000119102,Cerebrovascular accident due to thrombus of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+38595071000119100,Cerebrovascular accident due to thrombosis of right posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+40076141000119100,Acute cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+407573811000119000,Acute cerebrovascular accident due to occlusion of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+422504002,Ischemic stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+496369931000119000,Cerebrovascular accident due to thrombosis of right cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+502836591000119000,Acute cerebrovascular accident due to occlusion of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+58173271000119100,Cerebrovascular accident due to embolism of bilateral cerebellar arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+734963004,Embolus of right posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+734964005,Embolus of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+734965006,Embolus of right middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+738211801000119000,Acute cerebrovascular accident due to thrombosis of right middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+762005171000119000,Acute cerebrovascular accident due to ischemia (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+762652006,Occlusion of left posterior cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788883008,Cerebral ischemic stroke due to hypercoagulable state (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+806161651000119000,Cerebrovascular accident due to embolism of right vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+859422751000119000,Cerebrovascular accident due to embolism of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+86553761000119100,Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+870544005,Occlusion of distal basilar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+898941951000119000,Cerebrovascular accident due to occlusion of bilateral vertebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+936648941000119000,Acute cerebrovascular accident due to embolism of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+939885431000119000,Cerebrovascular accident due to embolism of bilateral middle cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+107557061000119000,Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153543002,Occlusion of anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153545009,Occlusion of left anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153607003,Occlusion of right posterior communicating artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153608008,Occlusion of left posterior communicating artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153611009,Embolism of left anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153630009,Embolism of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153631008,Embolism of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153633006,Embolism of bilateral posterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1153638002,Occlusion of bilateral cerebellar arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1155688007,Embolism of bilateral carotid arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1155689004,Embolism of bilateral cerebellar arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1155698001,Embolism of right vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1156016006,Thrombosis of left posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1156017002,Thrombosis of right posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1204189004,Asymptomatic occlusion of intracranial vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1204202004,Occlusion of cerebral artery due to infection (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1231168008,Malignant middle cerebral artery syndrome (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+125081000119106,Cerebral infarction due to occlusion of precerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+152148641000119000,Cerebrovascular accident due to embolism of bilateral carotid arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16000351000119100,Cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16000391000119100,Cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16002111000119100,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16024271000119100,Cerebrovascular accident due to occlusion of right cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16026991000119100,Cerebrovascular accident due to stenosis of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16218291000119100,Acute cerebral ischemia (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16661931000119100,Cerebrovascular accident due to stenosis of bilateral vertebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+168747591000119000,Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+188174841000119000,Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230518009,Infarction of optic tract (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230703006,Dysarthria-clumsy hand syndrome (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+276220007,Foville syndrome (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+302902003,Infarction of optic chiasm (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329421000119107,Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329461000119102,Cerebrovascular accident due to occlusion of left cerebellar artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329501000119102,Occlusion of bilateral middle cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329561000119101,Occlusion of right posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+329571000119107,Occlusion of left posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+330791000119108,Cerebrovascular accident due to thrombus of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+346410121000119000,Acute cerebrovascular accident due to thrombosis of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+346674811000119000,Cerebrovascular accident due to occlusion of bilateral cerebellar arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+371040005,Thrombotic stroke (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+384430101000119000,Cerebrovascular accident due to embolism of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+426983002,Infarction of medulla oblongata (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+46583221000119100,Acute cerebrovascular accident due to stenosis of left carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+511452481000119000,Cerebrovascular accident due to thrombosis of right vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+517253051000119000,Cerebrovascular accident due to embolism of left vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+63230211000119100,Acute cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+655081461000119000,Cerebrovascular accident due to occlusion of right anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+693158221000119000,Acute cerebrovascular accident due to stenosis of right carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+720261501000119000,Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+723082006,Silent cerebral infarct (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+7.3233E+17,Cerebrovascular accident due to embolism of bilateral vertebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+734961002,Embolus of left posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+738478141000119000,Acute cerebrovascular accident due to occlusion of right cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+759950981000119000,Cerebrovascular accident due to thrombosis of left vertebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+762629007,Occlusion of right middle cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+762630002,Occlusion of left middle cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+762651004,Occlusion of right posterior cerebral artery by embolus (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788310011000119000,Acute cerebrovascular accident due to occlusion of left cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788455001,Occlusion of bilateral pontine arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788880006,Cerebral ischemic stroke due to dissection of artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788881005,Cerebral ischemic stroke due to aortic arch embolism (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788882003,Cerebral ischemic stroke due to global hypoperfusion with watershed infarct (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+788884002,Cerebral ischemic stroke due to subarachnoid hemorrhage (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+849488701000119000,Cerebrovascular accident due to embolism of right anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+849579281000119000,Cerebrovascular accident due to occlusion of right posterior communicating artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+851365731000119000,Cerebrovascular accident due to thrombosis of left posterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+870579007,Occlusion of branch of basilar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+915141931000119000,Cerebrovascular accident due to embolism of basilar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+931164671000119000,Acute cerebrovascular accident due to embolism of right middle cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+957319791000119000,Cerebrovascular accident due to thrombosis of left cerebellar artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+99451000119105,Cerebral infarction due to stenosis of carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+99451000119105,Cerebral infarction due to stenosis of carotid artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+195188006,Cerebral arterial occlusion(&[cerebrovascular accident due to] or [stroke due to]) or (cerebral infarction),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230722002,Cerebral venous thrombosis of cortical vein (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+230723007,Cerebral venous thrombosis of great cerebral vein (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269243009,Thrombosis of bilateral carotid arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+297778421000119000,Cerebrovascular accident due to thrombosis of bilateral posterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+578968971000119000,Cerebrovascular accident due to thrombosis of bilateral vertebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16644541000119100,Cerebrovascular accident due to occlusion of bilateral carotid arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269237007,Cerebrovascular accident due to thrombosis of anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+488408691000119000,Cerebrovascular accident due to thrombosis of bilateral cerebellar arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16024071000119100,Cerebrovascular accident due to occlusion of right anterior choroidal artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+563789641000119000,Cerebrovascular accident due to thrombosis of bilateral carotid arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16023951000119100,Cerebrovascular accident due to occlusion of left anterior choroidal artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269246001,Thrombosis of bilateral vertebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16023751000119100,Occlusion of left anterior choroidal artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+16023831000119100,Occlusion of right anterior choroidal artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269238002,Thrombosis of anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+195772021000119000,Cerebrovascular accident due to thrombosis of left anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269245002,Thrombosis of bilateral posterior cerebral arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269248000,Cerebrovascular accident due to occlusion of anterior choroidal artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269240007,Thrombosis of right anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1263550001,Infarction of brain due to migraine (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269244003,Thrombosis of bilateral cerebellar arteries (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+1269239005,Thrombosis of left anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+828066161000119000,Cerebrovascular accident due to thrombosis of right anterior cerebral artery (disorder),Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv
+195179002,Precerebral: [arterial occlusion] or [arterial stenosis] or [infarction],Stroke - Manchester,,['Manchester'],ManchesterRichardWilliams_Stroke.csv

@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+193207007,Juvenile or adult myasthenia gravis,Myasthenia Gravis,,['Lauren_codelist']
+91637004,Myasthenia gravis,Myasthenia Gravis,,['Lauren_codelist']
+91637004,Myasthenia gravis NOS,Myasthenia Gravis,,['Lauren_codelist']

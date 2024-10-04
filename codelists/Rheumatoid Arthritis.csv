@@ -1,0 +1,108 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,,
+10713006,Fibrosing alveolitis associated with rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+1212005,Juvenile dermatomyositis,Rheumatoid Arthritis,,['Lauren_codelist'],,create new list called seronegative arthropathies
+161567008,H/O: rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+164454008,O/E - hands - ulnar deviation,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+164454008,O/E - ulnar deviation,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+164456005,O/E-hands-rheumatoid spindling,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+193180002,Polyneuropathy in rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+193250002,Myopathy due to rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+195136004,Rheumatoid myocarditis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+200936003,Lupus erythematosus,Rheumatoid Arthritis,,['Lauren_codelist'],,move to SLE
+200936003,Lupus erythematosus NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,move to SLE
+200938002,Discoid lupus erythematosus,Rheumatoid Arthritis,,['Lauren_codelist'],,move to SLE
+200956002,Psoriasis spondylitica,Rheumatoid Arthritis,,['Lauren_codelist'],,seronegative arthropathies
+201764007,Rheumatoid arthritis of cervical spine,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201766009,Rheumatoid arthritis of shoulder,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201767000,Rheumatoid arthritis of sternoclavicular joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201768005,Rheumatoid arthritis of acromioclavicular joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201769002,Rheumatoid arthritis of elbow,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201770001,Rheumatoid arthritis of distal radio-ulnar joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201771002,Rheumatoid arthritis of wrist,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201772009,Rheumatoid arthritis of MCP joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201773004,Rheumatoid arthritis of PIP joint of finger,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201774005,Rheumatoid arthritis of DIP joint of finger,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201775006,Rheumatoid arthritis of hip,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201776007,Rheumatoid arthritis of sacro-iliac joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201777003,Rheumatoid arthritis of knee,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201778008,Rheumatoid arthritis of tibio-fibular joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201779000,Rheumatoid arthritis of ankle,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201780002,Rheumatoid arthritis of subtalar joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201781003,Rheumatoid arthritis of talonavicular joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201783000,Rheumatoid arthritis of 1st MTP joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201784006,Rheumatoid arthritis of lesser MTP joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201785007,Rheumatoid arthritis of IP joint of toe,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201788009,Rheumatoid bursitis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201791009,Flare of rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201799006,Monarticular juvenile rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+201805000,Juvenile arthritis in Crohn's disease,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+201807008,Juvenile arthritis in ulcerative colitis,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+202649003,Inflammatory spondylopathies,Rheumatoid Arthritis,,['Lauren_codelist'],,seronegative arthropathies
+203108005,Myalgia and myositis unspecified,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+203113009,Myalgia or myositis NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+23060008,Swan-neck finger deformity,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+231041000000107,Delivery of rehabilitation for rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+23685000,Rheumatic carditis,Rheumatoid Arthritis,,['Lauren_codelist'],,remove
+239791005,"Seropositive rheumatoid arthritis, unspecified",Rheumatoid Arthritis,,['Lauren_codelist'],,
+239791005,[X]Other seropositive rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+239791005,"[X]Seropositive rheumatoid arthritis, unspecified",Rheumatoid Arthritis,,['Lauren_codelist'],,
+239792003,Seronegative rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+239793008,Other rheumatoid arthropathy + visceral/systemic involvement,Rheumatoid Arthritis,,['Lauren_codelist'],,
+239793008,Rheumatoid arthropathy + visceral/systemic involvement NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,
+239793008,[X]Rheumatoid arthritis+involvement/other organs or systems,Rheumatoid Arthritis,,['Lauren_codelist'],,
+239796000,Other juvenile arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+239796000,[X]Other juvenile arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+239803008,Juvenile arthritis in psoriasis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+239805001,Juvenile ankylosing spondylitis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+239891002,Subacute cutaneous lupus erythematosus,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+239920006,Adult Still's Disease,Rheumatoid Arthritis,,['Lauren_codelist'],,seronegative arthropathies
+239920006,Adult-onset Still's disease,Rheumatoid Arthritis,,['Lauren_codelist'],,seronegative arthropathies
+24693007,Fibromyositis NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+26889001,Myositis unspecified,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+275902004,Rheumatoid arthrit. monitoring,Rheumatoid Arthritis,,['Lauren_codelist'],,
+287006005,Rheumatoid arthritis - multiple joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+28880005,Rheumatoid carditis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+308143008,Seropositive errosive rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+31384009,Polymyositis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+31848007,CREST syndrome,Rheumatoid Arthritis,,['Lauren_codelist'],,create new list called connective tissue disorders - other
+33339001,Psoriatic arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,create new list called psoriatric arthropathy
+33339001,Psoriatic arthropathy,Rheumatoid Arthritis,,['Lauren_codelist'],,psoriatic arthropathy
+33339001,Psoriatic arthropathy NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,psoriatic arthropathy
+33719002,Rheumatoid nodule,Rheumatoid Arthritis,,['Lauren_codelist' 'Lauren_codelist'],,REMOVE
+36186002,Unspecified polyarthropathy or polyarthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+3723001,Other specified inflammatory polyarthropathy,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+396230008,Dermatomyositis,Rheumatoid Arthritis,,['Lauren_codelist'],,CONNECTIVE TISSUE DISORDER-OTHER
+398640008,Caplan's syndrome,Rheumatoid Arthritis,,['Lauren_codelist'],,
+398726004,Rheumatoid lung,Rheumatoid Arthritis,,['Lauren_codelist' 'Lauren_codelist'],,
+398726004,Rheumatoid lung disease,Rheumatoid Arthritis,,['Lauren_codelist'],,
+399112009,Sero negative arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,seronegative arthropathies
+400054000,Rheumatoid vasculitis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+410793008,Juvenile rheumatoid arthropathy unspecified,Rheumatoid Arthritis,,['Lauren_codelist'],,
+410795001,Juvenile rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+410795001,Juvenile rheumatoid arthritis - Still's disease,Rheumatoid Arthritis,,['Lauren_codelist'],,
+410795001,Juvenile rheumatoid arthritis NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,
+410797009,Juvenile seronegative polyarthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,seronegative arthropathies
+417373000,Inflammatory polyarthropathy,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+417373000,Inflammatory polyarthropathy NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+417373000,Other specified inflammatory polyarthropathy NOS,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+419921000000105,"Dermatopolymyositis, unspecified",Rheumatoid Arthritis,,['Lauren_codelist'],,CONNECTIVE TISSUE DISORDER-OTHER
+429192004,Rheumatoid arthritis of other tarsal joint,Rheumatoid Arthritis,,['Lauren_codelist'],,
+444133002,Progressive systemic sclerosis,Rheumatoid Arthritis,,['Lauren_codelist'],,CONNECTIVE TISSUE DISORDER-OTHER
+55464009,Systemic lupus erythematosus,Rheumatoid Arthritis,,['Lauren_codelist'],,SLE
+57160007,Felty's syndrome,Rheumatoid Arthritis,,['Lauren_codelist'],,
+65323003,Polymyalgia rheumatica,Rheumatoid Arthritis,,['Lauren_codelist'],,CREATE new list for polymyalgia rheumatics
+69896004,Rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+69896004,Rheumatoid arthritis and other inflammatory polyarthropathy,Rheumatoid Arthritis,,['Lauren_codelist'],,
+69896004,[X]Other specified rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+74391003,Pauciarticular juvenile rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+74391003,Pauciarticular onset juvenile chronic arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,REMOVE
+75822003,Acute polyarticular juvenile rheumatoid arthritis,Rheumatoid Arthritis,,['Lauren_codelist'],,
+84801008,Chronic post-rheumatic arthropathy,Rheumatoid Arthritis,,['Lauren_codelist'],,
+882321000000105,Rheumatoid arthritis monitoring invitation,Rheumatoid Arthritis,,['Lauren_codelist'],,
+882401000000106,Rheumatoid arthritis monitoring invitation first letter,Rheumatoid Arthritis,,['Lauren_codelist'],,
+882421000000102,Rheumatoid arthritis monitoring invitation second letter,Rheumatoid Arthritis,,['Lauren_codelist'],,
+882441000000109,Rheumatoid arthritis monitoring invitation third letter,Rheumatoid Arthritis,,['Lauren_codelist'],,
+882461000000105,Rheumatoid arthritis monitoring verbal invitation,Rheumatoid Arthritis,,['Lauren_codelist'],,
+882481000000101,Rheumatoid arthritis monitoring telephone invitation,Rheumatoid Arthritis,,['Lauren_codelist'],,
+89155008,Systemic sclerosis,Rheumatoid Arthritis,,['Lauren_codelist'],,CONNECTIVE TISSUE DISORDER-OTHER
+9631008,Other rheumatoid arthritis of spine,Rheumatoid Arthritis,,['Lauren_codelist'],,

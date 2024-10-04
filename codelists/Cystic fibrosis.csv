@@ -1,0 +1,27 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+190905008,"Cystic fibrosis disorder; Cystic fibrosis; Cystic fibrosis NOS; Cystic fibrosis with other manifestations; Fibrocystic disease; Mucoviscidosis",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated 6 times"
+762270003,Atypical cystic fibrosis (disorder) ,Cystic fibrosis,,Manual SNOMED CT Browser,"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually"
+86555001,"Cystic fibrosis of the lung (disorder); Cystic fibrosis with pulmonary manifestations",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+762269004,Classical cystic fibrosis (disorder) ,Cystic fibrosis,,Manual SNOMED CT Browser,"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually"
+515611000000104,"Cystic fibrosis monitoring (regime/therapy); Cystic fibrosis monitoring",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+515631000000107,Cystic fibrosis annual review (regime/therapy),Cystic fibrosis,,Manual SNOMED CT Browser,"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually"
+698529000,Seen in cystic fibrosis clinic (finding),Cystic fibrosis,,Manual SNOMED CT Browser,"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually"
+526071000000104,"Arthropathy in cystic fibrosis (disorder); Arthropathy in cystic fibrosis",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+859041000000103,"Exacerbation of cystic fibrosis (disorder); Exacerbation of cystic fibrosis",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+776981000000103,Cirrhosis associated with cystic fibrosis (disorder),Cystic fibrosis,,Manual SNOMED CT Browser,"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually"
+86092005,"Cystic fibrosis with meconium ileus (disorder); Cystic fibrosis with meconium ileus; Meconium ileus in cystic fibrosis",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+67799006,Cystic fibrosis,Cystic fibrosis,,Manual SNOMED CT Browser,"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually"
+427022004,"Liver disease due to cystic fibrosis (disorder); Liver disease due to cystic fibrosis",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+81423003,"Cystic fibrosis without meconium ileus (disorder); Cystic fibrosis with no meconium ileus",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+426705001,"Diabetes mellitus co-occurrent and due to cystic fibrosis (disorder); Cystic fibrosis related diabetes mellitus",Cystic fibrosis,,['Lauren_codelist' 'Manual SNOMED CT Browser'],"Category name ""Cystic fibrosis"" given manually by dividing pulmonary fibrosis categories manually; Repeated two times"
+190909002,Cystic fibrosis with intestinal manifestations,Cystic Fibrosis,,['Lauren_codelist'],
+
+
+
+
+
+
+
+
+
+

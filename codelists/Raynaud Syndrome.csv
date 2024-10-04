@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+195295006,Raynaud's disease,Raynaud Syndrome,,['Lauren_codelist']
+195295006,Raynaud's syndrome,Raynaud Syndrome,,['Lauren_codelist']
+195295006,Raynaud's syndrome NOS,Raynaud Syndrome,,['Lauren_codelist']
+234034005,Vibratory white finger,Raynaud Syndrome,,['Lauren_codelist']
+266261006,Raynaud's phenomenon,Raynaud Syndrome,,['Lauren_codelist']

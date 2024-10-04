@@ -1,0 +1,12 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+161626009,H/O: splenectomy,Hyposplenism,,['Lauren_codelist']
+174776001,Other specified total excision of spleen,Hyposplenism,,['Lauren_codelist']
+174776001,Total excision of spleen NOS,Hyposplenism,,['Lauren_codelist']
+205735005,Hypoplasia of spleen,Hyposplenism,,['Lauren_codelist']
+22996003,Splenic infarction,Hyposplenism,,['Lauren_codelist']
+234319005,Other excision of spleen NOS,Hyposplenism,,['Lauren_codelist']
+234319005,Other specified other excision of spleen,Hyposplenism,,['Lauren_codelist']
+23761004,Hyposplenism,Hyposplenism,,['Lauren_codelist']
+43325004,Non-traumatic rupture of spleen,Hyposplenism,,['Lauren_codelist']
+56338005,Splenic fibrosis,Hyposplenism,,['Lauren_codelist']
+82893001,Splenic atrophy,Hyposplenism,,['Lauren_codelist']

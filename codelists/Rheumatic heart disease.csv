@@ -1,0 +1,3 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+756003,Chronic rheumatic myopericarditis,Rheumatic heart disease,,['Lauren_codelist']," renamed from ""Recurrent pulmonary embolus"" to ""Pulmonary embolism"""
+78069008,Chronic rheumatic pericarditis,Rheumatic heart disease,,['Lauren_codelist']," renamed from ""Recurrent pulmonary embolus"" to ""Pulmonary embolism"""

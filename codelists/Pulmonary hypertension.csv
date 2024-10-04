@@ -1,0 +1,11 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+11399002,Primary pulmonary hypertension,Pulmonary hypertension,,['Lauren_codelist']," renamed from ""PRIMARYPULMONARYHypertension"" to ""Pulmonary hypertension"" "
+233947005,Thromboembolic pulmonary hypertension,Pulmonary hypertension,,['Lauren_codelist']," renamed from ""SECONDARYPULMONARYHypertension"" to ""Pulmonary hypertension"" "
+88223008,Secondary pulmonary hypertension,Pulmonary hypertension,,['Lauren_codelist']," renamed from ""SECONDARYPULMONARYHypertension"" to ""Pulmonary hypertension"" "
+233942004,Small vessel pulmonary hypertension,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "
+233947005,Thromboembolic pulmonary hypertension,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "
+233948000,Post-arteritic pulmonary hypertension,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "
+276793003,Pulmonary hypertension with occult mitral stenosis,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "
+360578005,Pulmonary hypertension secondary to left sided heart disease,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "
+70995007,Pulmonary hypertension,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "
+88223008,Secondary pulmonary hypertension,Pulmonary hypertension,,['efi']," renamed from ""Respiratory disease"" to ""Pulmonary hypertension"" "

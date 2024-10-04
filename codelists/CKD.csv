@@ -1,0 +1,3 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+49708008,Anaemia secondary to chronic renal failure,CKD,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi'],changed from 'Anaemia & haematinic deficiency' to 'CKD'
+49708008,Anaemia secondary to chronic renal failure,CKD,,['Lauren_codelist'],changed from 'Anaemia Nos' to 'CKD'

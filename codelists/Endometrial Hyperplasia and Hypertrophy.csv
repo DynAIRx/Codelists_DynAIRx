@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+198316006,Hypertrophy of the uterus,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198316006,Hypertrophy of the uterus NOS,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198316006,Hypertrophy of uterus unspecified,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198318007,Bulky uterus,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198319004,Enlarged uterus,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198321009,Endometrial cystic hyperplasia,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198321009,Endometrial cystic hyperplasia NOS,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+198322002,Adenomatous endometrial hyperplasia,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']
+237072009,Glandular endometrial hyperplasia,Endometrial Hyperplasia and Hypertrophy,,['Lauren_codelist']

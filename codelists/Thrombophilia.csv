@@ -1,0 +1,12 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+1563006,Protein S deficiency,Thrombophilia,,['Lauren_codelist']
+234467004,Thrombophilia,Thrombophilia,,['Lauren_codelist']
+26843008,Antiphospholipid syndrome,Thrombophilia,,['Lauren_codelist']
+307091009,Factor V Leiden mutation,Thrombophilia,,['Lauren_codelist']
+307115002,Homozygous Factor V Leiden mutation,Thrombophilia,,['Lauren_codelist']
+307116001,Heterozygous Factor V Leiden mutation,Thrombophilia,,['Lauren_codelist']
+439698008,Primary thrombophilia,Thrombophilia,,['Lauren_codelist']
+76407009,Protein C deficiency,Thrombophilia,,['Lauren_codelist']
+993351000000100,Plasma activated protein C resistance,Thrombophilia,,['Lauren_codelist']
+993371000000109,Factor V Leiden genotype,Thrombophilia,,['Lauren_codelist']
+999311000000101,Activated protein C with factor V deficient plasma,Thrombophilia,,['Lauren_codelist']

@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+236080009,Neuromyopathic faecal incontinence,Faecal incontinence,,['efi']
+271839005,[D]Sphincter ani incontinence,Faecal incontinence,,['efi']
+386707000,Idiopathic faecal incontinence,Faecal incontinence,,['efi']
+72042002,Incontinent of faeces (& symptom),Faecal incontinence,,['efi']
+78459008,Double incontinence,Faecal incontinence,,['efi']

@@ -1,0 +1,12 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+193252005,Myopathy due to scleroderma,Systemic Sclerosis,,['Lauren_codelist']
+196133001,Lung disease with systemic sclerosis,Systemic Sclerosis,,['Lauren_codelist']
+201443009,Systemic sclerosis induced by drugs and chemicals,Systemic Sclerosis,,['Lauren_codelist']
+236502006,Renal involvement in scleroderma,Systemic Sclerosis,,['Lauren_codelist']
+236503001,Acute scleroderma renal crisis,Systemic Sclerosis,,['Lauren_codelist']
+298285004,Acrosclerosis,Systemic Sclerosis,,['Lauren_codelist']
+31848007,CREST syndrome,Systemic Sclerosis,,['Lauren_codelist']
+444133002,Progressive systemic sclerosis,Systemic Sclerosis,,['Lauren_codelist']
+89155008,Scleroderma,Systemic Sclerosis,,['Lauren_codelist']
+89155008,Systemic sclerosis,Systemic Sclerosis,,['Lauren_codelist']
+89155008,[X]Other forms of systemic sclerosis,Systemic Sclerosis,,['Lauren_codelist']

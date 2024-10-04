@@ -1,0 +1,7 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+197284004,Autoimmune chronic active hepatitis,Autoimmune liver Disease,,['Lauren_codelist'],
+197441003,Primary sclerosing cholangitis,Autoimmune liver Disease,,['Lauren_codelist'],
+31712002,Primary biliary cirrhosis,Autoimmune liver Disease,,['Lauren_codelist'],
+408335007,Autoimmune hepatitis,Autoimmune liver Disease,,['Lauren_codelist'],
+197284004,Autoimmune chronic active hepatitis,Autoimmune liver Disease,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"" and Disease name is given by DynAIRx-Asra after Sam Discussion"
+408335007,Autoimmune hepatitis,Autoimmune liver Disease,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"" and Disease name is given by DynAIRx-Asra after Sam Discussion"

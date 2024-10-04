@@ -1,0 +1,19 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+173617001,Open operation on oesophageal varices NOS,Oesophageal varices,,['Lauren_codelist'],
+173617001,Other specified open operation on oesophageal varices,Oesophageal varices,,['Lauren_codelist'],
+173617001,Tanner devascularisation for bleeding varices,Oesophageal varices,,['Lauren_codelist'],
+173639004,Fibreoptic endoscopic injection sclerotherapy oesoph varices,Oesophageal varices,,['Lauren_codelist'],
+173641003,Fibreoptic endoscopic banding of oesophageal varices,Oesophageal varices,,['Lauren_codelist'],
+173660005,Rigid oesophagoscopic injection sclerotherapy oesoph varices,Oesophageal varices,,['Lauren_codelist'],
+173661009,Rigid oesophagoscopic banding of oesophageal varices,Oesophageal varices,,['Lauren_codelist'],
+14223005,Oesophageal varices without bleeding,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+17709002,Oesophageal varices with bleeding,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+195474004,Oesophageal varices in diseases EC,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+195474004,Oesophageal varices in diseases EC NOS,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+195475003,Oesophageal varices with bleeding in diseases EC,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+195476002,Oesophageal varices without bleeding in diseases EC,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+28670008,Oesophageal varices,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+28670008,Oesophageal varices NOS,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+28670008,[X]Oesophageal varices in diseases classified elsewhere,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+308129003,Oesophageal varices in cirrhosis of the liver,Oesophageal varices,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""
+309783001,Oesophageal varices in alcoholic cirrhosis of the liver,Oesophageal varices,,['efi'],"Newly added after splitting condition ""Liver problems"" and Disease name is given by DynAIRx-Asra after Sam Discussion"

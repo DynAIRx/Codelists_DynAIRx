@@ -1,0 +1,13 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+160733006,Nursing or other home,Requirement for care,,['efi']
+160734000,Lives in a nursing home,Requirement for care,,['efi']
+160774006,Home help attends,Requirement for care,,['efi']
+161083000,Help by relatives,Requirement for care,,['efi']
+183436007,Care from friends,Requirement for care,,['efi']
+184156005,Has a carer,Requirement for care,,['efi']
+185218006,Seen in nursing home,Requirement for care,,['efi']
+224224003,Lives in staffed home,Requirement for care,,['efi']
+248171000000108,Lives in care home,Requirement for care,,['efi']
+271391000,Home help: [person] or [provision],Requirement for care,,['efi']
+287591000000107,Eligible for funded nursing care,Requirement for care,,['efi']
+394923006,Lives in a residential home,Requirement for care,,['efi']

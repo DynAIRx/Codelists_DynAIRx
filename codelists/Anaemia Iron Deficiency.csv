@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+161456009,H/O: anaemia - iron deficient,Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+191128004,Iron deficiency anaemia due to dietary causes,Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+234352004,Anaemia due chron blood loss: [iron defic] or [normocytic],Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+413533008,Anaemia due chron blood loss: [iron defic] or [normocytic],Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+44666001,Iron deficiency anaemias (& [hypochromic - microcytic]),Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+80126007,(Kelly-Paterson's)/(Plumm-Vinson's)/(oth sp iron def anaem),Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+165626000,Ferritin level low,Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis; Only counted if haemaglobin level is low via blood count,['efi']
+191156009,Protein-deficiency anaemia,Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']
+65560000,Amino acid deficiency anaemia,Anaemia Iron Deficiency,Anaemia deficit (i.e. all codes) resolve if there is a normal lab Hb following initial diagnosis,['efi']

@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+195020003,Hypertrophic non-obstructive cardiomyopathy,Hypertrophic Cardiomyopathy,,['Lauren_codelist']
+233873004,[X]Other hypertrophic cardiomyopathy,Hypertrophic Cardiomyopathy,,['Lauren_codelist']
+45227007,Hypertrophic obstructive cardiomyopathy,Hypertrophic Cardiomyopathy,,['Lauren_codelist']

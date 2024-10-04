@@ -1,0 +1,5 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+398640008,Rheumatoid pneumoconiosis,Occupational lung diseases,,['efi'],"changed name from ""Rheumatoid pneumoconiosis"" to ""Occupational lung diseases"""
+233672007,Byssinosis grade 3,Occupational lung diseases,,['efi'],renamed COPD to Chronic Obstructive Pulmonary Disease (COPD) and moved from COPD to occupational on Sam's feedback
+49691004,Industrial bronchitis,Occupational lung diseases,,['efi'],renamed COPD to Chronic Obstructive Pulmonary Disease (COPD) and moved from COPD to occupational on Sam's feedback
+

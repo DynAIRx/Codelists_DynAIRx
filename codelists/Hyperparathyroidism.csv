@@ -1,0 +1,12 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+203471008,Brown tumour of hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']
+203471008,Hyperparathyroid bone disease,Hyperparathyroidism,,['Lauren_codelist']
+29326002,Ectopic hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']
+36348003,Primary hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']
+66999008,Hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']
+66999008,[X]Other hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']
+78200003,Tertiary hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']
+84727000,Osteitis fibrosa cystica,Hyperparathyroidism,,['Lauren_codelist' 'Lauren_codelist']
+84727000,Von Recklinghausen's bone disease,Hyperparathyroidism,,['Lauren_codelist']
+84727000,von Recklinghausen's bone disease,Hyperparathyroidism,,['Lauren_codelist']
+91478007,Secondary hyperparathyroidism,Hyperparathyroidism,,['Lauren_codelist']

@@ -1,0 +1,69 @@
+,SnomedCTConceptId,MedCodeId,Observations,OrigReadCode,CleansedReadCode,Term.x,SnomedDescriptionId,Release,EmisCodeCategoryId,Term.y,Disease,Otherinstructions,origin,Comments
+1,195154000,300242011,2000,G600,G600.00,Ruptured berry aneurysm,300242011,NA,32,Ruptured berry aneurysm,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+2,195155004,300244012,60,G601,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation,300244012,NA,32,Subarachnoid haemorrhage from carotid siphon and bifurcation,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+3,195160000,300253017,70,G606,G606.00,Subarachnoid haemorrhage from vertebral artery,300253017,NA,32,Subarachnoid haemorrhage from vertebral artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+4,21454007,2841151000006113,4,^ESCTSA284115,NA,SAH - Subarachnoid hemorrhage,1217630014,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+5,21454007,2841151000006113,4,^ESCTSA284115,NA,SAH - Subarachnoid hemorrhage,1217630014,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+6,21454007,2841151000006113,4,^ESCTSA284115,NA,SAH - Subarachnoid hemorrhage,1217630014,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+7,21454007,2841151000006113,4,^ESCTSA284115,NA,SAH - Subarachnoid hemorrhage,1217630014,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+8,21454007,2841151000006113,4,^ESCTSA284115,NA,SAH - Subarachnoid hemorrhage,1217630014,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+9,21454007,300257016,4000,G60z,G60z.00,Subarachnoid haemorrhage NOS,481028017,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+10,21454007,300257016,4000,G60z,G60z.00,Subarachnoid haemorrhage NOS,481028017,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+11,21454007,300257016,4000,G60z,G60z.00,Subarachnoid haemorrhage NOS,481028017,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+12,21454007,300257016,4000,G60z,G60z.00,Subarachnoid haemorrhage NOS,481028017,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+13,21454007,300257016,4000,G60z,G60z.00,Subarachnoid haemorrhage NOS,481028017,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+14,21454007,300936018,300,Gyu61,Gyu6100,[X]Other subarachnoid haemorrhage,481028017,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+15,21454007,300936018,300,Gyu61,Gyu6100,[X]Other subarachnoid haemorrhage,481028017,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+16,21454007,300936018,300,Gyu61,Gyu6100,[X]Other subarachnoid haemorrhage,481028017,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+17,21454007,300936018,300,Gyu61,Gyu6100,[X]Other subarachnoid haemorrhage,481028017,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+18,21454007,300936018,300,Gyu61,Gyu6100,[X]Other subarachnoid haemorrhage,481028017,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+19,21454007,300935019,100,Gyu60,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,36011016,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+20,21454007,300935019,100,Gyu60,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,36011016,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+21,21454007,300935019,100,Gyu60,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,36011016,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+22,21454007,300935019,100,Gyu60,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,36011016,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+23,21454007,300935019,100,Gyu60,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,36011016,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+24,21454007,2841141000006111,20,^ESCTSA284114,NA,SAH - Subarachnoid haemorrhage,1216125018,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+25,21454007,2841141000006111,20,^ESCTSA284114,NA,SAH - Subarachnoid haemorrhage,1216125018,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+26,21454007,2841141000006111,20,^ESCTSA284114,NA,SAH - Subarachnoid haemorrhage,1216125018,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+27,21454007,2841141000006111,20,^ESCTSA284114,NA,SAH - Subarachnoid haemorrhage,1216125018,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+28,21454007,2841141000006111,20,^ESCTSA284114,NA,SAH - Subarachnoid haemorrhage,1216125018,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+29,21454007,123441000006112,700,G60X,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",481028017,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+30,21454007,123441000006112,700,G60X,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",481028017,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+31,21454007,123441000006112,700,G60X,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",481028017,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+32,21454007,123441000006112,700,G60X,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",481028017,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+33,21454007,123441000006112,700,G60X,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",481028017,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+34,21454007,123481000006118,1000,G603,G603.00,Subarachnoid haemorrhage from anterior communicating artery,36011016,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+35,21454007,123481000006118,1000,G603,G603.00,Subarachnoid haemorrhage from anterior communicating artery,36011016,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+36,21454007,123481000006118,1000,G603,G603.00,Subarachnoid haemorrhage from anterior communicating artery,36011016,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+37,21454007,123481000006118,1000,G603,G603.00,Subarachnoid haemorrhage from anterior communicating artery,36011016,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+38,21454007,123481000006118,1000,G603,G603.00,Subarachnoid haemorrhage from anterior communicating artery,36011016,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+39,21454007,123521000006118,800,G604,G604.00,Subarachnoid haemorrhage from posterior communicating artery,36011016,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+40,21454007,123521000006118,800,G604,G604.00,Subarachnoid haemorrhage from posterior communicating artery,36011016,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+41,21454007,123521000006118,800,G604,G604.00,Subarachnoid haemorrhage from posterior communicating artery,36011016,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+42,21454007,123521000006118,800,G604,G604.00,Subarachnoid haemorrhage from posterior communicating artery,36011016,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+43,21454007,123521000006118,800,G604,G604.00,Subarachnoid haemorrhage from posterior communicating artery,36011016,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+44,21454007,12761901000006117,100,^ESCT1276190,NA,Subarachnoid hemorrhage,36011016,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+45,21454007,12761901000006117,100,^ESCT1276190,NA,Subarachnoid hemorrhage,36011016,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+46,21454007,12761901000006117,100,^ESCT1276190,NA,Subarachnoid hemorrhage,36011016,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+47,21454007,12761901000006117,100,^ESCT1276190,NA,Subarachnoid hemorrhage,36011016,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+48,21454007,12761901000006117,100,^ESCT1276190,NA,Subarachnoid hemorrhage,36011016,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+49,21454007,481028017,200000,G60,G60..00,Subarachnoid haemorrhage,481028017,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+50,21454007,481028017,200000,G60,G60..00,Subarachnoid haemorrhage,481028017,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+51,21454007,481028017,200000,G60,G60..00,Subarachnoid haemorrhage,481028017,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+52,21454007,481028017,200000,G60,G60..00,Subarachnoid haemorrhage,481028017,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+53,21454007,481028017,200000,G60,G60..00,Subarachnoid haemorrhage,481028017,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+54,21454007,428181000006115,200,Gyu6E,Gyu6E00,Subarachnoid hemorrhage,481028017,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+55,21454007,428181000006115,200,Gyu6E,Gyu6E00,Subarachnoid hemorrhage,481028017,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+56,21454007,428181000006115,200,Gyu6E,Gyu6E00,Subarachnoid hemorrhage,481028017,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+57,21454007,428181000006115,200,Gyu6E,Gyu6E00,Subarachnoid hemorrhage,481028017,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+58,21454007,428181000006115,200,Gyu6E,Gyu6E00,Subarachnoid hemorrhage,481028017,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+59,21454007,2841171000006115,1,^ESCTSU284117,NA,Subarachnoid intracranial hemorrhage,2916568015,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+60,21454007,2841171000006115,1,^ESCTSU284117,NA,Subarachnoid intracranial hemorrhage,2916568015,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+61,21454007,2841171000006115,1,^ESCTSU284117,NA,Subarachnoid intracranial hemorrhage,2916568015,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+62,21454007,2841171000006115,1,^ESCTSU284117,NA,Subarachnoid intracranial hemorrhage,2916568015,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+63,21454007,2841171000006115,1,^ESCTSU284117,NA,Subarachnoid intracranial hemorrhage,2916568015,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+64,21454007,123511000006114,2000,G602,G602.00,Subarachnoid haemorrhage from middle cerebral artery,36011016,NA,32,Subarachnoid haemorrhage NOS,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+65,21454007,123511000006114,2000,G602,G602.00,Subarachnoid haemorrhage from middle cerebral artery,36011016,NA,32,[X]Other subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+66,21454007,123511000006114,2000,G602,G602.00,Subarachnoid haemorrhage from middle cerebral artery,36011016,NA,32,Subarachnoid haemorrhage from anterior communicating artery,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+67,21454007,123511000006114,2000,G602,G602.00,Subarachnoid haemorrhage from middle cerebral artery,36011016,NA,32,[X]Subarachnoid haemorrhage from other intracranial arteries,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA
+68,21454007,123511000006114,2000,G602,G602.00,Subarachnoid haemorrhage from middle cerebral artery,36011016,NA,32,Subarachnoid haemorrhage,Subarachnoid Haemorrhage,NA,['Lauren_codelist'],NA

@@ -1,0 +1,8 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+300695002,Unable use financial account,Problems managing finances,,['efi']
+300698000,Diff using financial account,Problems managing finances,,['efi']
+300701008,Unable to write cheques,Problems managing finances,,['efi']
+300704000,Difficulty writing cheques,Problems managing finances,,['efi']
+300708002,Unable to use credit card,Problems managing finances,,['efi']
+300711001,Difficulty using credit card,Problems managing finances,,['efi']
+401058009,Needs help manag financ affrs,Problems managing finances,,['efi']

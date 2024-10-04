@@ -1,0 +1,11 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+197478000,Congenital coeliac disease,Coeliac Disease,,['Lauren_codelist']
+197479008,Acquired coeliac disease,Coeliac Disease,,['Lauren_codelist']
+275404008,Coeliac rickets,Coeliac Disease,,['Lauren_codelist']
+396331005,Coeliac disease,Coeliac Disease,,['Lauren_codelist']
+396331005,Coeliac disease NOS,Coeliac Disease,,['Lauren_codelist']
+396331005,Gluten enteropathy,Coeliac Disease,,['Lauren_codelist']
+396331005,Sprue - nontropical,Coeliac Disease,,['Lauren_codelist']
+66187002,Steatorrhea - idiopathic,Coeliac Disease,,['Lauren_codelist']
+750911000000105,Coeliac disease annual review declined,Coeliac Disease,,['Lauren_codelist']
+752301000000106,Coeliac disease monitoring invitation first letter,Coeliac Disease,,['Lauren_codelist']

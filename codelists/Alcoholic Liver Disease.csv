@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+419728003,Laennec's cirrhosis,Alcoholic Liver Disease,,['Lauren_codelist'],
+420054005,Cirrhosis: [florid] or [alcoholic],Alcoholic Liver Disease,,['efi'],"Newly added after splitting condition ""Liver problems"" and Disease name is given by DynAIRx-Asra after Sam Discussion"
+41309000,(Cirrhos &/or chron liver dis) or (alcoholic liver disease),Alcoholic Liver Disease,,['efi'],"Newly added after splitting condition ""Liver problems"" and Disease name is given by DynAIRx-Asra after Sam Discussion"

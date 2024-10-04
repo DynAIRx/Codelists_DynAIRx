@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+129045003,Needs help in toilet,Toileting problems,,['efi']
+129078005,Dependent in toilet,Toileting problems,,['efi']
+284901005,Unable perform toilet activit,Toileting problems,,['efi']
+284905001,Diff perform toilet activity,Toileting problems,,['efi']
+284908004,Unable to use lavatory,Toileting problems,,['efi']
+301542000,Difficulty getting on and off toilet,Toileting problems,,['efi']
+301545003,Unable to get on to toilet,Toileting problems,,['efi']
+301551008,Unable to get off toilet,Toileting problems,,['efi']
+821221000000100,Difficulty accessing toilet,Toileting problems,,['efi']

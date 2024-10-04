@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+266599000,Dysmenorrhoea,Dysmenorrhoea,,['Lauren_codelist']
+289900009,Painful menstruation,Dysmenorrhoea,,['Lauren_codelist']
+32096006,Secondary dysmenorrhoea,Dysmenorrhoea,,['Lauren_codelist']
+65754002,Primary dysmenorrhoea,Dysmenorrhoea,,['Lauren_codelist']
+65754002,Spasmodic dysmenorrhoea,Dysmenorrhoea,,['Lauren_codelist']

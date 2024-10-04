@@ -1,0 +1,13 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+161832001,Weight decreasing,Weight loss,,['efi']
+198511000000103,Complaining of weight loss,Weight loss,,['efi']
+249468005,Appetite loss - anorexia,Weight loss,,['efi']
+267024001,Abnormal weight loss (& [symptom]),Weight loss,,['efi']
+309257005,Excessive weight loss,Weight loss,,['efi']
+401003006,Weight loss from baseline weight,Weight loss,,['efi']
+422868009,Unexplained weight loss,Weight loss,,['efi']
+444297006,Malnutrition universal screening tool score (observable entity),Weight loss,If equal to or greater than 1,['efi']
+448765001,Unintentional weight loss,Weight loss,,['efi']
+64379006,Decrease in appetite,Weight loss,,['efi']
+79890006,[D]Appetite loss,Weight loss,,['efi']
+89362005,Weight loss,Weight loss,,['efi']

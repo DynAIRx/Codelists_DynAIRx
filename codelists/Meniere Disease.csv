@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+13445001,Meniere's disease,Meniere Disease,,['Lauren_codelist']
+13445001,Meniere's disease NOS,Meniere Disease,,['Lauren_codelist']
+13445001,Unspecified Meniere's disease,Meniere Disease,,['Lauren_codelist']
+194348002,Active cochleovestibular Meniere's disease,Meniere Disease,,['Lauren_codelist']
+194349005,Active cochlear Meniere's disease,Meniere Disease,,['Lauren_codelist']
+194350005,Active vestibular Meniere's disease,Meniere Disease,,['Lauren_codelist']
+194351009,Inactive Meniere's disease,Meniere Disease,,['Lauren_codelist']
+29904009,Lermoyez's syndrome,Meniere Disease,,['Lauren_codelist']
+9794007,Endolymphatic hydrops,Meniere Disease,,['Lauren_codelist']

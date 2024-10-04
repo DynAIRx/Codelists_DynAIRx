@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+41975002,[D]Insomnia with sleep apnoea,Obstructive Sleep Apnoea,,['Lauren_codelist']
+73430006,Sleep apnoea,Obstructive Sleep Apnoea,,['Lauren_codelist' 'Lauren_codelist']
+73430006,[D]Sleep apnoea syndrome,Obstructive Sleep Apnoea,,['Lauren_codelist']
+78275009,Obstructive sleep apnoea,Obstructive Sleep Apnoea,,['Lauren_codelist']
+79280005,[D]Hypersomnia with sleep apnoea,Obstructive Sleep Apnoea,,['Lauren_codelist']

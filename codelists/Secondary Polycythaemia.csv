@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+191372008,Polycythaemia due to cyanotic heart disease,Secondary Polycythaemia,,['Lauren_codelist']
+191373003,Polycythaemia due to cyanotic respiratory disease,Secondary Polycythaemia,,['Lauren_codelist']
+367328005,Renal polycythaemia,Secondary Polycythaemia,,['Lauren_codelist']
+44865000,Secondary polycythaemia,Secondary Polycythaemia,,['Lauren_codelist']
+44865000,Secondary polycythaemia NOS,Secondary Polycythaemia,,['Lauren_codelist']

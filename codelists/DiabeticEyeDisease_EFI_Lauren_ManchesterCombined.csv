@@ -1,0 +1,51 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+4855003,Diabetic retinopathy NOS,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+312907002,High risk proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+390834004,Non proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+232020009,Diabetic maculopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+193350004,Advanced diabetic maculopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+193349004,Preproliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+59276001,Proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+4855003,Diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408409007,O/E - right eye background diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+417677008,O/E - sight threatening diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408413000,O/E - right eye proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408414006,O/E - left eye proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408412005,O/E - left eye preproliferative diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408410002,O/E - left eye background diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+414910007,O/E - right eye stable treated prolif diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+311782002,Advanced diabetic retinal disease,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+390834004,Background diabetic retinopathy,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+25093002,Diabetes mellitus NOS with ophthalmic manifestation,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+25093002,Other specified diabetes mellitus with ophthalmic complicatn,Diabetic Eye Disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate AND snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+420486006,Type 1 diabetes mellitus with exudative maculopathy,Diabetic Eye Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+390855002,O/E - diabetic maculopathy absent both eyes,Diabetic Eye Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408415007,O/E - right eye diabetic maculopathy,Diabetic Eye Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+408416008,O/E - left eye diabetic maculopathy,Diabetic Eye Disease,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_DiabetesToSeparate
+390854003,o/e - diabetic maculopathy present both eyes,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+408411003,o/e - right eye preproliferative diabetic retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+769244003,o/e - right eye diabetic maculopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+769245002,o/e - left eye diabetic maculopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+414894003,o/e - left eye stable treated prolif diabetic retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+373041000000101,impaired vision due to diabetic retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+413180006,pan retinal photocoagulation for diabetes,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+408384004,diabetic retinopathy 12 month review,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+421920002,insulin dependent diabetes mellitus with diabetic cataract,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+422034002,non-insulin-dependent diabetes mellitus with retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+420756003,non-insulin depend diabetes mellitus with diabetic cataract,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+312905005,high risk non proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+193489006,diabetic iritis,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+43959009,diabetic cataract,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+312903003,Mild non proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+312904009,Moderate non proliferative diabetic retinopathy,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+312912001,Diabetic macular oedema,Diabetic Eye Disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+860712005,Disorder of macula of bilateral eyes due to diabetes mellitus present,Diabetes,,['Manchester'],diabetes.snomed.txt OR efi-diabetes.snomed.txt
+368711000119106,Mild nonproliferative retinopathy due to secondary diabetes mellitus,Diabetes,,['Manchester'],diabetes.snomed.txt OR efi-diabetes.snomed.txt
+37231002,Macular retinal edema (disorder),Diabetes,,['Manchester'],diabetes.snomed.txt OR efi-diabetes.snomed.txt
+267471001,Diabetes + eye manifestation (& [cataract] or [retinopathy]) (disorder),Diabetes,,['Manchester'],diabetes.snomed.txt OR efi-diabetes.snomed.txt
+739681000,"diabetes mellitus, juvenile type, + ophthalmic manifestation",Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+422099009,"diabetes mellitus, adult onset, + ophthalmic manifestation",Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+421165007,type 1 diabetes mellitus with ophthalmic complications,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+421468001,Type I diabetes mellitus with neurological complications,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+420789003,Type I diabetes mellitus with retinopathy,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate
+421779007,type 2 diabetes mellitus with exudative maculopathy,Diabetes Mellitus,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_DiabetesToSeparate

@@ -1,0 +1,5 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+1755008,Old myocardial infarction,Coronary Heart Disease AND Ischaemic heart disease,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233839009,Old anterior myocardial infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233841005,Old lateral myocardial infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233842003,Old posterior myocardial infarction,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv

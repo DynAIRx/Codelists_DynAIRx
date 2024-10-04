@@ -1,0 +1,13 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+192131001,Hyperkinesis with developmental delay,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+192132008,Hyperkinetic conduct disorder,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,Attention deficit with hyperactivity,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,Childhood hyperkinetic syndrome,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,Hyperkinetic syndrome NOS,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,Other hyperkinetic manifestation,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,Overactive child syndrome,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,[X]Attention deficit hyperactivity disorder,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,"[X]Hyperkinetic disorder, unspecified",Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+406506008,[X]Other hyperkinetic disorders,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+464511000000105,[X]Disturbance of activity and attention,Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']
+702538008,Drug therapy ADHD (attention deficit hyperactivity disorder),Attention Deficit Hyperactivity Disorder,,['Lauren_codelist']

@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+109992005,Polycythaemia rubra vera,Polycythaemia vera,,['Lauren_codelist']
+109992005,Polycythaemia vera,Polycythaemia vera,,['Lauren_codelist']
+109992005,Primary polycythaemia,Polycythaemia vera,,['Lauren_codelist']
+109992005,[M]Polycythaemia rubra vera,Polycythaemia vera,,['Lauren_codelist']
+128841001,[M]Polycythaemia vera,Polycythaemia vera,,['Lauren_codelist']

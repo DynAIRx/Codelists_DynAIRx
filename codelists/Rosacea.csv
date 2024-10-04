@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+19877001,Rhinophyma,Rosacea,,['Lauren_codelist']
+200931008,Rosacea hypertrophica,Rosacea,,['Lauren_codelist']
+200932001,Lupoid rosacea,Rosacea,,['Lauren_codelist']
+200933006,Ocular rosacea,Rosacea,,['Lauren_codelist']
+371097007,Rosacea conjunctivitis,Rosacea,,['Lauren_codelist']
+398909004,Acne rosacea,Rosacea,,['Lauren_codelist']
+398909004,Rosacea,Rosacea,,['Lauren_codelist']
+398909004,Rosacea NOS,Rosacea,,['Lauren_codelist']
+398909004,[X]Other rosacea,Rosacea,,['Lauren_codelist']

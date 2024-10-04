@@ -1,0 +1,5 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+30400005,Haemorrh: [closed traum subarach] or [mid mening follow inj],Stroke,,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+28048009,Haemorrh: [closed traum subarach] or [mid mening follow inj],Stroke,,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+450418003,Traumatic intracerebral haemorrhage,Stroke,,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv
+450410005,Traumatic intracranial haemorrhage,Stroke,,['efi'],Stroke_Haemorrhagic_Caliber_EFI_LaurenCombined.csv

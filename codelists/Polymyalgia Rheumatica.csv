@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+239938009,Giant cell arteritis with polymyalgia rheumatica,Polymyalgia Rheumatica,,['Lauren_codelist']
+65323003,Polymyalgia,Polymyalgia Rheumatica,,['Lauren_codelist']
+65323003,Polymyalgia rheumatica,Polymyalgia Rheumatica,,['Lauren_codelist']

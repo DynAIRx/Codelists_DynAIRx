@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+39871006,Chronic respiratory failure,Respiratory failure,,['efi'],"renamed from ""Respiratory disease"" to ""Respiratory failure"""
+409622000,Respiratory failure,Respiratory failure,,['efi'],"renamed from ""Respiratory disease"" to ""Respiratory failure"""
+428173007,Chronic type 1 respiratory failure,Respiratory failure,,['efi'],"renamed from ""Respiratory disease"" to ""Respiratory failure"""

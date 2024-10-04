@@ -1,0 +1,9 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+161939006,Breathless - moderate exertion,Dyspnoea,,['efi']
+161940008,Breathless - mild exertion,Dyspnoea,,['efi']
+161941007,Dyspnoea at rest,Dyspnoea,,['efi']
+162890008,O/E - dyspnoea,Dyspnoea,,['efi']
+230145002,Difficulty breathing,Dyspnoea,,['efi']
+267036007,(Symptom: [SOB]/[breathless]/[dyspnoea]) or (breathlessness),Dyspnoea,,['efi']
+391125004,MRC Breathlessness Scale: grade 4,Dyspnoea,,['efi']
+60845006,Dyspnoea on exertion,Dyspnoea,,['efi']

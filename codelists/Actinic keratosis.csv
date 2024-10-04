@@ -1,0 +1,5 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+201097003,Senile keratoma,Actinic keratosis,,['Lauren_codelist']
+201101007,Actinic keratosis,Actinic keratosis,,['Lauren_codelist']
+201101007,Solar keratosis,Actinic keratosis,,['Lauren_codelist']
+445111008,Cryotherapy to actinic keratosis,Actinic keratosis,,['Lauren_codelist']

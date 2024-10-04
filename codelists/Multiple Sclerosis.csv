@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+166411000000100,Spec serv for pat with multiple sclerosis - enh serv admin,Multiple Sclerosis,,['Lauren_codelist']
+192927008,Multiple sclerosis of the spinal cord,Multiple Sclerosis,,['Lauren_codelist']
+192928003,Generalised multiple sclerosis,Multiple Sclerosis,,['Lauren_codelist']
+192929006,Exacerbation of multiple sclerosis,Multiple Sclerosis,,['Lauren_codelist']
+24700007,Disseminated sclerosis,Multiple Sclerosis,,['Lauren_codelist']
+24700007,Multiple sclerosis,Multiple Sclerosis,,['Lauren_codelist']
+24700007,Multiple sclerosis NOS,Multiple Sclerosis,,['Lauren_codelist']
+425500002,Secondary progressive multiple sclerosis,Multiple Sclerosis,,['Lauren_codelist']
+428700003,Primary progressive multiple sclerosis,Multiple Sclerosis,,['Lauren_codelist']

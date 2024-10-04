@@ -1,4 +1,4 @@
-# Codelists_DynAIRx
+# Codelists DynAIRx
 ## Introduction
 These **codelists** are part of DynAIRx Project. DynAIRx has been funded by the National Institute for Health and Care Research (NIHR) Artificial Intelligence for Multiple Long-Term Conditions (AIM). 
 <br>

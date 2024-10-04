@@ -1,0 +1,5 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+22607003,Asbestosis,Asbestosis,,['Lauren_codelist']
+22607003,Asbestosis NOS,Asbestosis,,['Lauren_codelist']
+233659006,Asbestos-induced pleural plaque,Asbestosis,,['Lauren_codelist']
+233659006,Pleural plaque disease due to asbestosis,Asbestosis,,['Lauren_codelist']

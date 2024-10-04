@@ -1,0 +1,13 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+127041004,Thalassaemia with haemoglobin S disease,Thalassaemia,,['Lauren_codelist']
+16360009,Delta-beta thalassaemia,Thalassaemia,,['Lauren_codelist']
+191189009,Beta intermedia thalassaemia,Thalassaemia,,['Lauren_codelist']
+234383000,Homozygous alpha thalassaemia,Thalassaemia,,['Lauren_codelist']
+40108008,Hereditary leptocytosis,Thalassaemia,,['Lauren_codelist']
+40108008,Mediterranean anaemia,Thalassaemia,,['Lauren_codelist']
+40108008,Thalassaemia,Thalassaemia,,['Lauren_codelist']
+40108008,Thalassaemia NOS,Thalassaemia,,['Lauren_codelist']
+40108008,[X]Other thalassaemias,Thalassaemia,,['Lauren_codelist']
+65959000,Beta thalassaemia,Thalassaemia,,['Lauren_codelist']
+68913001,alpha Thalassaemia,Thalassaemia,,['Lauren_codelist']
+75451007,Thalassaemia major NEC,Thalassaemia,,['Lauren_codelist']

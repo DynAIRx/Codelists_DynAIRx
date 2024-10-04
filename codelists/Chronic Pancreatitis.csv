@@ -1,0 +1,7 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+235494005,Chronic pancreatitis,Chronic Pancreatitis,,['Lauren_codelist']
+235494005,[X]Other chronic pancreatitis,Chronic Pancreatitis,,['Lauren_codelist']
+235951009,Gallstone chronic pancreatitis,Chronic Pancreatitis,,['Lauren_codelist']
+235952002,Alcohol-induced chronic pancreatitis,Chronic Pancreatitis,,['Lauren_codelist']
+247431000000103,History of chronic pancreatitis,Chronic Pancreatitis,,['Lauren_codelist']
+75694006,Pancreatitis,Chronic Pancreatitis,,['Lauren_codelist']

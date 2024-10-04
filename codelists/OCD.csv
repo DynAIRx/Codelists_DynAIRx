@@ -1,0 +1,11 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+67698009,Obsessional thoughts,OCD,", Time constraint years: 5.0",['efi' 'OPTIMAL' 'liverpool'],
+191736004,Obsessive-compulsive disorders,OCD,", Time constraint years: 5.0",['efi' 'UoM' 'OPTIMAL' 'liverpool'],
+191737008,Compulsive neurosis,OCD,", Time constraint years: 5.0",['efi' 'UoM' 'OPTIMAL' 'liverpool'],
+191738003,Obsessional neurosis,OCD,", Time constraint years: 5.0",['efi' 'UoM' 'OPTIMAL' 'liverpool'],
+473456000,Compulsive personality disorders,OCD,", Time constraint years: 5.0",['EFI' 'OPTIMAL'],
+1376001,Compulsive personality disorders,OCD,", Time constraint years: 5.0",['EFI' 'OPTIMAL'],
+192014006,Psychogenic rumination,OCD,", Time constraint years: 5.0",['EFI' 'UoM'],
+231511005,Psychogenic polydipsia,OCD,", Time constraint years: 5.0",['EFI' 'OPTIMAL'],
+18085000,Pathological gambling,OCD,", Time constraint years: 5.0",['EFI' 'OPTIMAL'],
+67431008,[X]Predominantly compulsive acts [obsessional rituals],OCD,", Time constraint years: 5.0",['efi' 'OPTIMAL' 'liverpool'],

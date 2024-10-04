@@ -1,0 +1,14 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+191475009,Chronic alcoholic brain syndrome,Alcohol-related Brain Injury,,['Lauren_codelist'],
+191475009,[X]Chronic alcoholic brain syndrome,Alcohol-related Brain Injury,,['Lauren_codelist'],
+191476005,Alcohol withdrawal hallucinosis,Alcohol-related Brain Injury,,['Lauren_codelist'],
+191478006,Alcoholic paranoia,Alcohol-related Brain Injury,,['Lauren_codelist'],
+192811002,Cerebral degeneration due to alcoholism,Alcohol-related Brain Injury,,['Lauren_codelist'],
+281004,Alcoholic dementia NOS,Alcohol-related Brain Injury,,['Lauren_codelist'],
+281004,Other alcoholic dementia,Alcohol-related Brain Injury,,['Lauren_codelist'],
+361268000,Alcohol-induced epilepsy,Alcohol-related Brain Injury,,['Lauren_codelist'],
+361272001,Cerebellar ataxia due to alcoholism,Alcohol-related Brain Injury,,['Lauren_codelist'],
+417633001,Alcohol induced hallucinations,Alcohol-related Brain Injury,,['Lauren_codelist'],
+7916009,Alcoholic polyneuropathy,Alcohol-related Brain Injury,,['Lauren_codelist'],
+8635005,"[X]Delirium tremens, alcohol induced",Alcohol-related Brain Injury,,['Lauren_codelist'],
+21007002,Wernicke's encephalopathy,Alcohol-related Brain Injury,,['Lauren_codelist' 'Lauren_codelist']," Lauren Suggested to move it here from Alcohol Problems Category so renamed from ""Alcohol Problem"" to ""Alcohol-related Brain Injury"""

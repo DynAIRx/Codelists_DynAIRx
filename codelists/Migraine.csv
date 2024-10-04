@@ -1,0 +1,36 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+193030005,Migraine variant NOS,Migraine,,['Lauren_codelist'],
+193030005,Migraine variants,Migraine,,['Lauren_codelist'],
+193031009,Periodic migrainous neuralgia,Migraine,,['Lauren_codelist'],
+193039006,Complicated migraine,Migraine,,['Lauren_codelist'],Deleted an exactly similar entry in efi
+230462002,Classical migraine,Migraine,,['Lauren_codelist'],
+230467008,Status migrainosus,Migraine,,['Lauren_codelist'],
+37796009,Migraine,Migraine,,['Lauren_codelist'],
+37796009,Migraine NOS,Migraine,,['Lauren_codelist'],
+37796009,Other forms of migraine,Migraine,,['Lauren_codelist'],
+37796009,Other forms of migraine NOS,Migraine,,['Lauren_codelist'],
+37796009,[X]Other migraine,Migraine,,['Lauren_codelist'],
+408381007,Migraine prophylaxis,Migraine,,['Lauren_codelist'],
+4473006,Migraine with aura,Migraine,,['Lauren_codelist'],
+49605003,Ophthalmoplegic migraine,Migraine,,['Lauren_codelist'],
+56097005,Atypical migraine,Migraine,,['Lauren_codelist'],
+56097005,Common migraine,Migraine,,['Lauren_codelist'],
+56097005,Common migraine NOS,Migraine,,['Lauren_codelist'],
+56097005,Migraine without aura,Migraine,,['Lauren_codelist'],
+59292006,Hemiplegic migraine,Migraine,,['Lauren_codelist'],
+75879005,Abdominal migraine,Migraine,,['Lauren_codelist'],
+75879005,[D]Abdominal migraine,Migraine,,['Lauren_codelist'],
+83351003,Basilar migraine,Migraine,,['Lauren_codelist'],
+95655001,Ophthalmic migraine,Migraine,,['Lauren_codelist'],
+230462002,Migraine with aura,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+161481007,H/O: migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+230464001,Non-familial hemiplegic migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+230468003,Migraine with ischaemic complication,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+4473006,Migraine with aura,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+408381007,Migraine prophylaxis,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+49605003,Ophthalmoplegic migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+59292006,Hemiplegic migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+79267007,Retinal migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+83351003,Basilar migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+95655001,Ophthalmic migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 
+95656000,Familial hemiplegic migraine,Migraine,,['efi'],Moved this from efi list where its categorised as a Headache and categorised it as Migraine here 

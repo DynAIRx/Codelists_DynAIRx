@@ -1,0 +1,12 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+161514008,H/O: aortic aneurysm,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+175283003,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+175297006,Emergency repair of aortic aneurysm,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+175297006,Emergency replacement of aneurysmal segment of aorta,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+175297006,Emergency replacement of aneurysmal segment of aorta NOS,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+233374003,Y graft of abdominal Aortic aneurysm (emergency),Abdominal Aortic Aneurysm,,['Lauren_codelist']
+233377005,Tube graft abdominal Aortic aneurysm (emergency),Abdominal Aortic Aneurysm,,['Lauren_codelist']
+233984007,"Thoracoabdominal aortic aneurysm, without mention of rupture",Abdominal Aortic Aneurysm,,['Lauren_codelist']
+233985008,AAA - Abdominal aortic aneurysm without mention of rupture,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+233985008,Abdominal aortic aneurysm without mention of rupture,Abdominal Aortic Aneurysm,,['Lauren_codelist']
+67362008,Aortic aneurysm without mention of rupture NOS,Abdominal Aortic Aneurysm,,['Lauren_codelist']

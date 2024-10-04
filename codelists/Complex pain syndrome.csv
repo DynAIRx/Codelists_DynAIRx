@@ -1,0 +1,13 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+128200000,Complex regional pain syndrome,Complex pain syndrome,,['Lauren_codelist']
+15743005,Sudek's atrophy,Complex pain syndrome,,['Lauren_codelist']
+203493003,Algodystrophy of hand,Complex pain syndrome,,['Lauren_codelist']
+203494009,Algodystrophy of knee,Complex pain syndrome,,['Lauren_codelist']
+203495005,Algodystrophy of foot,Complex pain syndrome,,['Lauren_codelist']
+2103002,Shoulder-hand syndrome,Complex pain syndrome,,['Lauren_codelist']
+408751001,Complex regional pain syndrome type II,Complex pain syndrome,,['Lauren_codelist']
+50642008,Algodystrophy,Complex pain syndrome,,['Lauren_codelist']
+50642008,Algoneurodystrophy,Complex pain syndrome,,['Lauren_codelist']
+50642008,Algoneurodystrophy NOS,Complex pain syndrome,,['Lauren_codelist']
+50642008,Complex regional pain syndrome type I,Complex pain syndrome,,['Lauren_codelist']
+50642008,Reflex sympathetic dystrophy,Complex pain syndrome,,['Lauren_codelist' 'Lauren_codelist']

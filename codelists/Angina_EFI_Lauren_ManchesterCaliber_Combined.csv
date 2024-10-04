@@ -1,0 +1,81 @@
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+19057007,Status anginosus,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194828000,Stenocardia,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+21470009,Syncope anginosa,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+300995000,Angina on effort,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+314116003,Post infarct angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233821000,New onset angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+233819005,Stable angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194828000,Angina pectoris NOS,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194828000,[X]Other forms of angina pectoris,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+315025001,Refractory angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+194828000,Angina pectoris,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+35928006,Nocturnal angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+87343002,Prinzmetal's angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+87343002,Variant angina pectoris,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+161504004,H/O: angina pectoris,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+170595000,Angina control - poor,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+170594001,Angina control - good,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+170597008,Angina control - worsening,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+315025001,Refractory angina,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+19057007,Status anginosus,Stable Angina AND Unstable Angina,,['efi AND Lauren_codelist'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv AND snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Crescendo angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+59021001,Angina at rest,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Unstable angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+59021001,Angina at rest,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Worsening angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+59021001,Angina decubitus,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+59021001,Angina decubitus NOS,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+308066006,H/O: Angina in last year,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+170593007,Angina control NOS,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+170596004,Angina control - improving,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+170593007,Angina control,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+308117007,Antianginal therapy,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Worsening angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Preinfarction syndrome,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Crescendo angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+25106000,Impending infarction,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Unstable angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+59021001,Angina at rest,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+4557003,Unstable angina,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+59021001,Angina at rest,Stable Angina AND Unstable Angina,,['Lauren_codelist'],snomed_for_LW_codelist_using_Pieta_powerQuery_separateOut.csv
+315026000,Transient myocardial ischaemia,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+233845001,Cardiac syndrome X,Ischaemic heart disease,,['efi'],eFI2 SNOMED CT 0.24 Renamed ConditionsPowerQuery_separateOut.csv
+15960061000119102,Unstable angina co-occurrent and due to coronary arteriosclerosis (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371807002,Atypical angina (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371811008,Recurrent angina status post rotational atherectomy (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371812001,Recurrent angina status post directional coronary atherectomy (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+41334000,"Angina, class II (disorder)",Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+791000119109,Angina due to type 2 diabetes mellitus (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+89323001,"Angina, class IV (disorder)",Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960141000119102,Angina co-occurrent and due to coronary arteriosclerosis (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960341000119104,Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960381000119109,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960461000119105,Unstable angina due to arteriosclerosis of autologous arterial coronary artery bypass graft (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960541000119107,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960581000119102,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+15960661000119107,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371806006,Progressive angina (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371808007,Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371809004,Recurrent angina following placement of coronary artery stent (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+371810009,Recurrent angina status post coronary artery bypass graft (disorder),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+85284003,"Angina, class III (disorder)",Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+194814006,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction),Coronary Heart Disease,,['ManchesterGitHub'],coronary-heart-disease.snomed.txt
+61490001,"Angina, class I (disorder)",Angina,,['ManchesterGitHub'],angina.snomed.txt
+16754391000119100,Stable angina due to coronary arteriosclerosis (disorder),Angina,,['ManchesterGitHub'],angina.snomed.txt
+429559004,Typical angina (disorder),Angina,,['ManchesterGitHub'],angina.snomed.txt
+15960741000119103,Preinfarction syndrome due to arteriosclerosis of nonautologous biological coronary artery bypass graft (disorder),Angina,,['ManchesterGitHub'],angina.snomed.txt
+194823009,Acute coronary insufficiency (disorder),Angina,,['ManchesterGitHub'],angina.snomed.txt
+225566008,Ischemic chest pain (finding),Angina,,['ManchesterGitHub'],angina.snomed.txt
+854491000006109,Preinfarction syndrome (disorder),Coronary Heart Disease,,['ManchesterChariot_edh_cvd'],Angina_Chariot_snomed_plus_medcodeids.csv
+697976003,Microvascular ischemia of myocardium (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+413439005,Acute ischemic heart disease (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+713405002,Subacute ischemic heart disease (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+414795007,Myocardial ischemia (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+712866001,Resting ischemia co-occurrent and due to ischemic heart disease (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+703214003,Silent coronary vasospastic disease (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+413844008,Chronic myocardial ischemia (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+233823002,Silent myocardial ischemia (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+413444003,Acute myocardial ischemia (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+46109009,Subendocardial ischemia (disorder),Angina,??,['Caliber'],covid_impact_ccu00201_angina_England_SNOMEDCT.csv
+712866001,Resting ischemia co-occurrent and due to ischemic heart disease (disorder),UnstableAngina,??,['Caliber'],covid_impact_ccu00201_unstable_angina_England_SNOMEDCT.csv

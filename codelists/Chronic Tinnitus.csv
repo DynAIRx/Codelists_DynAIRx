@@ -1,0 +1,10 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+162352007,Ringing in ear,Chronic Tinnitus,,['Lauren_codelist']
+162353002,Hissing in ear,Chronic Tinnitus,,['Lauren_codelist']
+28715001,Objective tinnitus,Chronic Tinnitus,,['Lauren_codelist']
+60862001,Tinnitus,Chronic Tinnitus,,['Lauren_codelist']
+60862001,Tinnitus NOS,Chronic Tinnitus,,['Lauren_codelist']
+60862001,Tinnitus symptom NOS,Chronic Tinnitus,,['Lauren_codelist']
+60862001,Tinnitus symptoms,Chronic Tinnitus,,['Lauren_codelist']
+60862001,Unspecified tinnitus,Chronic Tinnitus,,['Lauren_codelist']
+62452009,Subjective tinnitus,Chronic Tinnitus,,['Lauren_codelist']

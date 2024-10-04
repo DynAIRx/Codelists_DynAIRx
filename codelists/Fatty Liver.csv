@@ -1,0 +1,6 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+197321007,Fatty change of liver,Fatty Liver,,['Lauren_codelist'],
+197321007,Fatty liver,Fatty Liver,,['Lauren_codelist'],
+197321007,Steatosis of liver,Fatty Liver,,['Lauren_codelist'],
+442685003,Nonalcoholic steatohepatitis,Fatty Liver,,['Lauren_codelist'],
+197294009,Fatty portal cirrhosis,Fatty Liver,,['Lauren_codelist'],"Newly added after splitting condition ""Chronic Liver disease And Viral hepatitis"""

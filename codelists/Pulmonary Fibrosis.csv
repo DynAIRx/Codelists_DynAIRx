@@ -1,0 +1,13 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+162974009,O/E - fibrosis of lung,Pulmonary Fibrosis,,['Lauren_codelist'],
+162974009,O/E - fibrosis of lung present,Pulmonary Fibrosis,,['Lauren_codelist'],
+196125002,Usual interstitial pneumonitis,Pulmonary Fibrosis,,['Lauren_codelist'],
+233703007,[X]Other interstitial pulmonary diseases with fibrosis,Pulmonary Fibrosis,,['Lauren_codelist'],
+236302005,Hamman - Rich syndrome,Pulmonary Fibrosis,,['Lauren_codelist'],
+266368002,Cirrhosis of lung,Pulmonary Fibrosis,,['Lauren_codelist'],
+266368002,Postinflammatory pulmonary fibrosis,Pulmonary Fibrosis,,['Lauren_codelist'],
+51615001,Pulmonary fibrosis,Pulmonary Fibrosis,,['Lauren_codelist'],
+700250006,Cryptogenic fibrosing alveolitis,Pulmonary Fibrosis,,['Lauren_codelist'],
+700250006,Idiopathic fibrosing alveolitis,Pulmonary Fibrosis,,['Lauren_codelist'],
+700250006,Idiopathic fibrosing alveolitis NOS,Pulmonary Fibrosis,,['Lauren_codelist'],
+10713006, Fibrosing alveolitis associated with rheumatoid arthritis,Pulmonary Fibrosis,,['efi'],"changed name from ""Respiratory disease"" to ""Pulmonary Fibrosis"""

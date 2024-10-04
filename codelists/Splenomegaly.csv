@@ -1,0 +1,8 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+16294009,[D]Spleen enlargement,Splenomegaly,,['Lauren_codelist']
+16294009,[D]Splenomegaly,Splenomegaly,,['Lauren_codelist']
+16294009,[D]Splenomegaly NOS,Splenomegaly,,['Lauren_codelist']
+191382009,Chronic congestive splenamegaly,Splenomegaly,,['Lauren_codelist']
+36752001,Congenital splenomegaly,Splenomegaly,,['Lauren_codelist']
+36760000,Hepatosplenomegaly,Splenomegaly,,['Lauren_codelist']
+58381000,Hypersplenism,Splenomegaly,,['Lauren_codelist']

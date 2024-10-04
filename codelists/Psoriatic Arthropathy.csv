@@ -1,0 +1,8 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+19514005,Arthritis mutilans,Psoriatic Arthropathy,,['Lauren_codelist']
+200956002,Psoriasis spondylitica,Psoriatic Arthropathy,,['Lauren_codelist']
+239812005,Distal interphalangeal psoriatic arthropathy,Psoriatic Arthropathy,,['Lauren_codelist']
+33339001,Psoriatic arthritis,Psoriatic Arthropathy,,['Lauren_codelist']
+33339001,Psoriatic arthropathy,Psoriatic Arthropathy,,['Lauren_codelist']
+33339001,Psoriatic arthropathy NOS,Psoriatic Arthropathy,,['Lauren_codelist']
+33339001,[X]Other psoriatic arthropathies,Psoriatic Arthropathy,,['Lauren_codelist']

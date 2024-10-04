@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+195021004,Primary dilated cardiomyopathy,Dilated Cardiomyopathy,,['Lauren_codelist']
+20529002,Secondary dilated cardiomyopathy,Dilated Cardiomyopathy,,['Lauren_codelist']
+399020009,Congestive cardiomyopathy,Dilated Cardiomyopathy,,['Lauren_codelist']

@@ -1,0 +1,66 @@
+﻿SnomedCTConceptId,Term,Disease,Manual/New Disease Name,Otherinstructions,origin,Comments,,,,,,
+109965004,Lymphoblastic (diffuse) lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109966003,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109969005,Diffuse non-Hodgkin's large cell lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109975001,T-zone lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109976000,Lymphoepithelioid lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109977009,Peripheral T-cell lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109978004,Oth and unspecif peripheral & cutaneous T-cell lymphomas,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+109979007,Unspecified B-cell non-Hodgkin's lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Categories of Cancer
+109988003,True histiocytic lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,CNS
+109989006,Multiple myeloma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Resp
+118599009,"Hodgkin lymphoma;Hodgkin's disease; Hodgkin's disease NOS; Hodgkin's disease NOS of intrathoracic lymph nodes; Hodgkin's disease NOS of lymph nodes of head, face and neck; Hodgkin's disease NOS of lymph nodes of multiple sites; Hodgkin's disease NOS of spleen; Hodgkin's disease NOS, unspecified site",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,"gastrointestinal (could subdivide into liver, gall bladder, bowel, pancreas),"
+118600007,"Lymphoid and histiocytic malignancy NOS; Malignant lymphoma NOS; Malignant lymphoma NOS of intra-abdominal lymph nodes; Malignant lymphoma NOS of intrapelvic lymph nodes; Malignant lymphoma NOS of intrathoracic lymph nodes; Malignant lymphoma NOS of lymph nodes of head, face and neck; Malignant lymphoma NOS of lymph nodes of multiple sites; Malignant lymphoma NOS of spleen; Malignant lymphoma NOS of unspecified site; Malignant lymphoma otherwise specified; Malignant neoplasms of lymphoid and histiocytic tissue NOS; Unspec malig neop lymphoid/histiocytic lymph node head/neck; Unspec malig neop lymphoid/histiocytic of intrathoracic node",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Breast cancer
+118601006,Non - Hodgkin's lymphoma; Non-Hodgkin lymphoma; Other types of follicular non-Hodgkin's lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Genitourinary tract cancer
+118602004,Hodgkin's granuloma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Cervical
+118605002,Hodgkin's paragranuloma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Ovarian
+118606001,Hodgkin's sarcoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Skin
+118607005,"Hodgkin's disease, lymphocytic-histiocytic predominance; Hodgkin's, lymphocytic-histiocytic predominance NOS",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Leukemia
+118608000,"Hodgkin's disease, nodular sclerosis; Hodgkin's disease, nodular sclerosis NOS; Hodgkin's disease, nodular sclerosis of unspecified site",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Lymphoma
+118609008,"Hodgkin's disease, mixed cellularity; Hodgkin's disease, mixed cellularity NOS; Hodgkin's disease, mixed cellularity of unspecified site",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Bone
+118610003,"Hodgkin's disease, lymphocytic depletion; Hodgkin's disease, lymphocytic depletion NOS; Hodgkin's lymphocytic depletion of unspecified site",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Soft tissue
+118611004,Sezary's disease; Sezary's disease NOS,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,Endometrial cancer
+118612006,"Malignant histiocytosis; Malignant histiocytosis NOS; Malignant histiocytosis of unspecified site; Malignant reticulosis
+",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+118613001,Hairy cell leukaemia; Leukaemic reticuloendotheliosis NOS; Leukaemic reticuloendotheliosis of unspecified sites,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+118614007,"Histiocytosis X (acute, progressive); Letterer-Siwe disease NOS; Letterer-Siwe disease of unspecified sites",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+118615008,Malignant mast cell tumour NOS,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+118618005,Mycosis fungoides; Mycosis fungoides NOS; Mycosis fungoides of unspecified site,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188526000,Hodgkin's paragranuloma of intra-abdominal lymph nodes,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188534006,"Hodgkin's granuloma of lymph nodes of head, face and neck",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188547001,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188592008,"Hodgkin's disease, lymphocytic depletion of spleen",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188609000,"Nodular lymphoma of lymph nodes of head, face and neck",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188627002,Mycosis fungoides of lymph nodes of multiple sites,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188640007,"Malignant histiocytosis of lymph nodes head, face and neck",Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188660004,Malignant mast cell tumours,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188666005,Mast cell malignancy of lymph nodes inguinal region and leg,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188669003,Mast cell malignancy of lymph nodes of multiple sites,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188674006,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188676008,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188679001,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+188691005,Malignant immunoproliferative small intestinal disease,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+269476000,Nodular lymphoma (Brill - Symmers disease); Nodular lymphoma NOS; Nodular lymphoma of unspecified site,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+275524009,Immunoproliferative neoplasm,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+277606000,Other malignant neoplasm of lymphoid and histiocytic tissue,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+277622004,Maltoma; Mucosa-associated lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+277625002,Follicular non-Hodgkin's small cleaved cell lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+277641001,Follicular non-Hodgkin's large cell lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+302842009,Diffuse non-Hodgkin's centroblastic lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+308121000,Follicular non-Hodgkin's lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+397009000,Mast cell malignancy of unspecified site,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+415112005,Solitary plasmacytoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+443487006,Mantle cell lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+8.48E+14,Diffuse large B-cell lymphoma,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+91857003,Acute lymphoid leukaemia,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+91861009,Acute myeloid leukaemia,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+92814006,Chronic lymphoid leukaemia,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+92818009,Chronic myeloid leukaemia,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+93135004,Letterer-Siwe disease of intrathoracic lymph nodes,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+93139005,Letterer-Siwe disease of lymph nodes of multiple sites,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+93182006,Malignant histiocytosis of intra-abdominal lymph nodes,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+94707004,Mycosis fungoides of intra-abdominal lymph nodes,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+94710006,Mycosis fungoides of lymph nodes of axilla and upper limb,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+94712003,Mycosis fungoides of lymph nodes of inguinal region and leg,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+95186006,Nodular lymphoma of intra-abdominal lymph nodes,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
+95192000,Nodular lymphoma of lymph nodes of multiple sites,Cancer Haematological,Cancer Haematological,,['Lauren_codelist'],,,,,,,
