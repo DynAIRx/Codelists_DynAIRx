@@ -1,0 +1,25 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+1110851000000100,Quality and Outcomes Framework atrial fibrillation quality indicator-related care invitation (procedure),Atrial Fibrillation History and Monitoring,,['Caliber']
+711411000000101,Atrial fibrillation monitoring invitation (procedure),Atrial Fibrillation History and Monitoring,,['Caliber']
+717011000000100,Atrial fibrillation monitoring verbal invitation (procedure),Atrial Fibrillation History and Monitoring,,['Caliber']
+717221000000101,Atrial fibrillation monitoring first letter (procedure),Atrial Fibrillation History and Monitoring,,['Caliber']
+716181000000109,Atrial fibrillation monitoring third letter (procedure),Atrial Fibrillation History and Monitoring,,['Caliber']
+716721000000107,Atrial fibrillation monitoring telephone invitation (procedure),Atrial Fibrillation History and Monitoring,,['Caliber']
+134377004,Atrial fibrillation monitoring (regime/therapy),Atrial Fibrillation History and Monitoring,,"['Caliber', 'Manchester']"
+248411000000105,Atrial fibrillation annual review (regime/therapy),Atrial Fibrillation History and Monitoring,,['Manchester']
+716981000000106,Atrial fibrillation monitoring second letter (procedure),Atrial Fibrillation History and Monitoring,,['Manchester']
+715941000000109,Excepted from atrial fibrillation quality indicators - patient unsuitable (finding),Atrial Fibrillation History and Monitoring,,['Manchester']
+717381000000109,Excepted from atrial fibrillation quality indicators - informed dissent (finding),Atrial Fibrillation History and Monitoring,,['Manchester']
+716871000000101,Exception reporting: atrial fibrillation quality indicators,Atrial Fibrillation History and Monitoring,,['Lauren_codelist']
+713801000000102,Atrial fibrillation monitoring administration,Atrial Fibrillation History and Monitoring,,['Lauren_codelist']
+312442005,History of atrial fibrillation (situation),Atrial Fibrillation History and Monitoring,,"['Caliber', 'Manchester']"
+428076002,History of atrial flutter (situation),Atrial Fibrillation History and Monitoring,,['Caliber']
+196371000000102,Atrial fibrillation resolved,Atrial Fibrillation History and Monitoring,,
+440028005,Permanent atrial fibrillation,Atrial Fibrillation History and Monitoring,,
+300996004,Controlled atrial fibrillation (disorder),Atrial Fibrillation History and Monitoring,,"['Caliber', 'Manchester']"
+440028005,Permanent atrial fibrillation (disorder),Atrial Fibrillation History and Monitoring,,"['Caliber', 'Manchester']"
+440059007,Persistent atrial fibrillation (disorder),Atrial Fibrillation History and Monitoring,,"['Caliber', 'Manchester']"
+175146007,Implantation of intravenous pacemaker for atrial fibrillation (procedure),Atrial Fibrillation History and Monitoring,,['Manchester']
+425615007,Chronic atrial flutter (disorder),Atrial Fibrillation History and Monitoring,,['Caliber']
+426749004,Chronic atrial fibrillation (disorder),Atrial Fibrillation History and Monitoring,,['Caliber']
+706923002,Longstanding persistent atrial fibrillation,Atrial Fibrillation History and Monitoring,,['Manchester - edh_af']

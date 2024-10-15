@@ -1,0 +1,9 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+195160000,Subarachnoid haemorrhage from vertebral artery,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+21454007,Subarachnoid haemorrhage NOS,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+21454007,[X]Other subarachnoid haemorrhage,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+21454007,Subarachnoid haemorrhage from anterior communicating artery,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+21454007,[X]Subarachnoid haemorrhage from other intracranial arteries,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+195154000,Ruptured berry aneurysm,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+195155004,Subarachnoid haemorrhage from carotid siphon and bifurcation,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],
+21454007,Subarachnoid haemorrhage,Stroke - Subarachnoid Haemorrhage,,['Lauren_codelist'],

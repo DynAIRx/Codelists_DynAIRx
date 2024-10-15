@@ -1,0 +1,5 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+1755008,Old myocardial infarction,Ischaemic Heart Disease History,,"['efi', 'Lauren_codelist']",
+233839009,Old anterior myocardial infarction,Ischaemic Heart Disease History,,['efi'],
+233841005,Old lateral myocardial infarction,Ischaemic Heart Disease History,,['efi'],
+233842003,Old posterior myocardial infarction,Ischaemic Heart Disease History,,['efi'],
