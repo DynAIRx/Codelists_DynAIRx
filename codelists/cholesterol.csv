@@ -1,13 +1,49 @@
-﻿SnomedCTConceptId,Term
-1005671000000105,Serum cholesterol level
-412808005,Serum total cholesterol level
-121868005,Total cholesterol measurement (procedure)
-994351000000103,Serum total cholesterol level
-1106531000000105,Substance concentration of cholesterol in plasma (observable entity)
-853681000000104,Total cholesterol level (observable entity)
-850981000000101,Cholesterol level (observable entity)
-1017161000000104,Plasma total cholesterol level (observable entity)
-1106541000000101,Substance concentration of cholesterol in serum (observable entity)
-1083761000000106,Serum fasting total cholesterol level (observable entity)
-315017003,Fasting cholesterol level (procedure)
-247801000000106,Serum fasting total cholesterol (procedure)
+﻿SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+1005671000000105,Serum cholesterol level,Cholesterol,,['manual']
+412808005,Serum total cholesterol level,Cholesterol,,['manual']
+121868005,Total cholesterol measurement (procedure),Cholesterol,,['manual']
+994351000000103,Serum total cholesterol level,Cholesterol,,['manual']
+1106531000000105,Substance concentration of cholesterol in plasma (observable entity),Cholesterol,,['manual']
+853681000000104,Total cholesterol level (observable entity),Cholesterol,,['manual']
+850981000000101,Cholesterol level (observable entity),Cholesterol,,['manual']
+1017161000000104,Plasma total cholesterol level (observable entity),Cholesterol,,['manual']
+1106541000000101,Substance concentration of cholesterol in serum (observable entity),Cholesterol,,['manual']
+1083761000000106,Serum fasting total cholesterol level (observable entity),Cholesterol,,['manual']
+315017003,Fasting cholesterol level (procedure),Cholesterol,,['manual']
+247801000000106,Serum fasting total cholesterol (procedure),Cholesterol,,['manual']
+1010591000000104,Plasma low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1014501000000104,Calculated low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1022191000000100,Serum low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1026471000000106,Serum fasting low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1026481000000108,Serum random low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+53981000237105,Substance concentration of low density lipoprotein cholesterol in plasma (observable entity),Cholesterol,,['manual']
+1108541000000100,Substance concentration of low density lipoprotein cholesterol in plasma (observable entity),Cholesterol,,['manual']
+1108551000000102,Substance concentration of low density lipoprotein cholesterol in serum (observable entity),Cholesterol,,['manual']
+1028861000000101,Plasma fasting low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1028851000000104,Plasma random low density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+55621000237101,Substance concentration of low density lipoprotein cholesterol in serum (observable entity),Cholesterol,,['manual']
+1005681000000107,Serum high density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1010581000000101,Plasma high density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1026461000000104,Serum random high density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1107661000000104,Substance concentration of high density lipoprotein cholesterol in plasma (observable entity),Cholesterol,,['manual']
+1028831000000106,Plasma random high density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1107681000000108,Substance concentration of high density lipoprotein cholesterol in serum (observable entity),Cholesterol,,['manual']
+1026451000000102,Serum fasting high density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+1028841000000102,Plasma fasting high density lipoprotein cholesterol level (observable entity),Cholesterol,,['manual']
+313989009,Serum cholesterol/HDL ratio,Cholesterol,,['manual']
+850991000000104,Triglyceride level,Cholesterol,,['manual']
+365795001,Finding of triglyceride level,Cholesterol,,['manual']
+14740000, Triglycerides measurement,Cholesterol,,['manual']
+365796000, Finding of serum triglyceride levels,Cholesterol,,['manual']
+271245006,Measurement of serum triglyceride level,Cholesterol,,['manual']
+167082000,Plasma triglyceride measurement,Cholesterol,,['manual']
+1005691000000109,Serum triglycerides level,Cholesterol,,['manual']
+313551005,Serum very low density lipoprotein triglyceride measurement,Cholesterol,,['manual']
+1026501000000104,Serum random triglyceride level,Cholesterol,,['manual']
+1016381000000109,Fluid sample triglyceride level,Cholesterol,,['manual']
+166850007,Serum random triglyceride measurement,Cholesterol,,['manual']
+1026491000000105,Serum fasting triglyceride level,Cholesterol,,['manual']
+166849007,Serum fasting triglyceride measurement,Cholesterol,,['manual']
+1028871000000108,Plasma random triglyceride level,Cholesterol,,['manual']
+167083005,Plasma random triglyceride measurement,Cholesterol,,['manual']
+1031321000000109,Plasma fasting triglyceride level,Cholesterol,,['manual']

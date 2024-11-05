@@ -21,4 +21,3 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin
 64217002,Kyphoscoliosis or scoliosis NOS,Scoliosis,,['Lauren_codelist']
 64217002,Scoliosis associated with other condition,Scoliosis,,['Lauren_codelist']
 72992003,Thoracogenic scoliosis,Scoliosis,,['Lauren_codelist']
-,,Scoliosis,,['Lauren_codelist']

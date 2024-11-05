@@ -92,3 +92,4 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin
 92506005,Biventricular failure,Heart Failure,,['Lauren_codelist']
 92506005,Heart failure: [right] or [congestive],Heart Failure,,['efi']
 961881000000101,Heart failure information given to patient,Heart Failure,,['efi']
+250908004,Left ventricular ejection fraction,Heart Failure,,['efi']

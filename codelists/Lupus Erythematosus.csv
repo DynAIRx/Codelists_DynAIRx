@@ -26,3 +26,7 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin
 7119001,[X]Other local lupus erythematosus,Lupus Erythematosus,,['Lauren_codelist']
 79291003,Eyelid discoid lupus erythematosus,Lupus Erythematosus,,['Lauren_codelist']
 95644001,Cerebral lupus,Lupus Erythematosus,,['Lauren_codelist']
+200936003,Lupus erythematosus,Lupus Erythematosus,,['Lauren_codelist']
+200936003,Lupus erythematosus NOS,Lupus Erythematosus,,['Lauren_codelist']
+200938002,Discoid lupus erythematosus,Lupus Erythematosus,,['Lauren_codelist']
+55464009,Systemic lupus erythematosus,Lupus Erythematosus,,['Lauren_codelist']
