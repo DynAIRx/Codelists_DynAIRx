@@ -1,0 +1,7 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+751371000000107,Personal history of transient ischaemic attack (situation),Stroke - History of Transient Ischaemic Attack,,['Caliber'],
+161511000,H/O: TIA,Stroke - History of Transient Ischaemic Attack,,"['efi', 'Lauren_codelist']",
+751371000000107,[V]Pers hist trans isch attack,Stroke - History of Transient Ischaemic Attack,,['efi'],
+415631003,Stroke/transient ischaemic attack monitoring third letter,Stroke - History of Transient Ischaemic Attack,,['efi'],
+415630002,Stroke/transient ischaemic attack monitoring status,Stroke - History of Transient Ischaemic Attack,,['efi'],
+717241000000108,Stroke/transient ischaemic attack monitoring telephone invte,Stroke - History of Transient Ischaemic Attack,,['efi'],

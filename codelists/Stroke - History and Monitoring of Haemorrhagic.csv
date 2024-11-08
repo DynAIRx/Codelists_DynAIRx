@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
+417506008,Haemorrhagic stroke monitoring,Stroke - History and Monitoring Haemorrhagic,,"['efi', 'Lauren_codelist']",
+195241001,Sequelae of intracerebral haemorrhage,Stroke - History and Monitoring Haemorrhagic,,['Lauren_codelist'],
+363302008,Sequelae of other non-traumatic intracranial haemorrhage,Stroke - History and Monitoring Haemorrhagic,,['efi'],
