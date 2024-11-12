@@ -32,7 +32,7 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
 271737000,Aplastic and other anaemias,Anaemia Other,,['Lauren_codelist'],
 109996008,Refractory anaemia,Anaemia Other,,['Lauren_codelist'],
 191136008,Idiopathic hypochromic anaemia,Anaemia Other,,['Lauren_codelist'],
-191156009,Protein-deficiency anaemia,Anaemia Other,,['Lauren_codelist']
+191156009,Protein-deficiency anaemia,Anaemia Other,,['Lauren_codelist'],
 191156009,Protein-deficiency anaemia NOS,Anaemia Other,,['Lauren_codelist'],
 191161006,Vitamin C deficiency anaemia,Anaemia Other,,['Lauren_codelist'],
 191260004,Pyridoxine-responsive sideroblastic anaemia,Anaemia Other,,['Lauren_codelist'],
