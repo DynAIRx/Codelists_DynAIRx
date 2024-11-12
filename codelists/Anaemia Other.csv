@@ -16,7 +16,7 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
 267527002,Aplastic anaemia due to drugs,Anaemia Other,,['Lauren_codelist'],
 267527002,Hypoplastic anaemia due to drug or chemical substance,Anaemia Other,,['Lauren_codelist'],
 28975000,Constitutional aplastic anaemia,Anaemia Other,,['Lauren_codelist'],
-28975000,Hypoplastic anaemia - familial,Anaemia Other,,['Lauren_codelist']
+28975000,Hypoplastic anaemia - familial,Anaemia Other,,['Lauren_codelist'],
 30575002,Fanconi's familial refractory anaemia,Anaemia Other,,['Lauren_codelist'],
 30575002,Fanconi's hypoplastic anaemia,Anaemia Other,,['Lauren_codelist'],
 306058006,Aplastic anaemia,Anaemia Other,,['Lauren_codelist'],
