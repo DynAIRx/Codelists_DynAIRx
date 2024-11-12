@@ -167,7 +167,7 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
 693158221000119000,Acute cerebrovascular accident due to stenosis of right carotid artery (disorder),Stroke - Ischaemic,,['Manchester'],
 720261501000119000,Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries (disorder),Stroke - Ischaemic,,['Manchester'],
 723082006,Silent cerebral infarct (disorder),Stroke - Ischaemic,,['Manchester'],
-7.3233E+17,Cerebrovascular accident due to embolism of bilateral vertebral arteries (disorder),Stroke - Ischaemic,,['Manchester'],
+732330391000119107,Cerebrovascular accident due to embolism of bilateral vertebral arteries (disorder),Stroke - Ischaemic,,['Manchester'],
 734961002,Embolus of left posterior cerebral artery (disorder),Stroke - Ischaemic,,['Manchester'],
 738478141000119000,Acute cerebrovascular accident due to occlusion of right cerebellar artery (disorder),Stroke - Ischaemic,,['Manchester'],
 759950981000119000,Cerebrovascular accident due to thrombosis of left vertebral artery (disorder),Stroke - Ischaemic,,['Manchester'],

@@ -1,29 +1,29 @@
 SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
-161129001,Learning difficulties,Learning Disability,,['Lauren_codelist'],double check
-1855002,"[X]Developmental disorder of scholastic skills, unspecified; [X]Other developmental disorders of scholastic skills; [X]Specific developmental disorders of scholastic skills",Learning Disability,,['Lauren_codelist'],double check three Duplicates Merged
-276854003,Educationally subnormal,Learning Disability,,['Lauren_codelist'],double check
-31216003,Profound mental retardation with IQ less than 20,Learning Disability,,['Lauren_codelist'],double check
-40700009,"[X]Severe mental retardation, other impairments of behaviour",Learning Disability,,['Lauren_codelist'],double check
-413126003,Learning disabilities health assessment,Learning Disability,,['Lauren_codelist'],double check
-413162002,Learning disabilities health action plan declined,Learning Disability,,['Lauren_codelist'],double check
-413163007,Learning disabilities health action plan reviewed,Learning Disability,,['Lauren_codelist'],double check
-416075005,On learning disability register,Learning Disability,,['Lauren_codelist'],double check
-514021000000103,Learning disabilities annual health assessment declined,Learning Disability,,['Lauren_codelist'],double check
-518741000000100,Preferred place of death: learning disability unit,Learning Disability,,['Lauren_codelist'],double check
-61152003,"Imbecile; [X]Mod retard oth behav impair",Learning Disability,,['Lauren_codelist'],double check two Duplicates Merged
-712491005,Learning disabilities health action plan completed,Learning Disability,,['Lauren_codelist'],double check
-86765009,"Feeble-minded; Mild mental retardation, IQ in range 50-70; [X]Mild mental retardation, other impairments of behaviour",Learning Disability,,['Lauren_codelist'],double check Three Duplicates Merged
-889211000000104,Other specific learning difficulty,Learning Disability,,['Lauren_codelist'],double check
-91138005,"Mental retardation; Mental retardation NOS,Learning Disability; Other specified mental retardation; Other specified mental retardation NOS; [X]Other mental retardation,Learning Disability; [X]Other mental retardation without mention impairment behav; [X]Other mental retardation, other impairments of behaviour; [X]Unsp mental retard with statement no or min impairm behav; [X]Unspecified mental retardation; [X]Unspecified mental retardatn, other impairments of behav",Learning Disability,,['Lauren_codelist'],double check Ten Duplicates Merged
-984671000000103,[X]Moderate learning disability,Learning Disability,,['Lauren_codelist'],double check
+161129001,Learning difficulties,Learning Disability,,['Lauren_codelist'],
+1855002,"[X]Developmental disorder of scholastic skills, unspecified; [X]Other developmental disorders of scholastic skills; [X]Specific developmental disorders of scholastic skills",Learning Disability,,['Lauren_codelist'],
+276854003,Educationally subnormal,Learning Disability,,['Lauren_codelist'],
+31216003,Profound mental retardation with IQ less than 20,Learning Disability,,['Lauren_codelist'],
+40700009,"[X]Severe mental retardation, other impairments of behaviour",Learning Disability,,['Lauren_codelist'],
+413126003,Learning disabilities health assessment,Learning Disability,,['Lauren_codelist'],
+413162002,Learning disabilities health action plan declined,Learning Disability,,['Lauren_codelist'],
+413163007,Learning disabilities health action plan reviewed,Learning Disability,,['Lauren_codelist'],
+416075005,On learning disability register,Learning Disability,,['Lauren_codelist'],
+514021000000103,Learning disabilities annual health assessment declined,Learning Disability,,['Lauren_codelist'],
+518741000000100,Preferred place of death: learning disability unit,Learning Disability,,['Lauren_codelist'],
+61152003,"Imbecile; [X]Mod retard oth behav impair",Learning Disability,,['Lauren_codelist'],
+712491005,Learning disabilities health action plan completed,Learning Disability,,['Lauren_codelist'],
+86765009,"Feeble-minded; Mild mental retardation, IQ in range 50-70; [X]Mild mental retardation, other impairments of behaviour",Learning Disability,,['Lauren_codelist'], Three Duplicates Merged
+889211000000104,Other specific learning difficulty,Learning Disability,,['Lauren_codelist'],
+91138005,"Mental retardation; Mental retardation NOS,Learning Disability; Other specified mental retardation; Other specified mental retardation NOS; [X]Other mental retardation,Learning Disability; [X]Other mental retardation without mention impairment behav; [X]Other mental retardation, other impairments of behaviour; [X]Unsp mental retard with statement no or min impairm behav; [X]Unspecified mental retardation; [X]Unspecified mental retardatn, other impairments of behav",Learning Disability,,['Lauren_codelist'],
+984671000000103,[X]Moderate learning disability,Learning Disability,,['Lauren_codelist'],
 199751000000100,Learning disabilities annual health assessment,Learning Disability,,['NHSE'],
 110359009,Intellectual disability,Learning Disability,,['NHSE'],
-984671000000103,Mild learning disability,,['NHSE'],
-508171000000105,Severe learning disability,,['NHSE'],
-518831000000103,Cause of learning disability,,['NHSE'],
-984681000000101,Profound learning disability,,['NHSE'],
-962361000000105,Learning disability care plan,,['NHSE'],
-1239331000000100,Significant intellectual disability,,['NHSE'],
-984661000000105,Mild learning disability,,['NHSE'],
-1366181000000109,Under care of learning disability team,,['NHSE'],
-962351000000107,Community learning disability care plan,,['NHSE'],
+984671000000103,Mild learning disability,Learning Disability,,['NHSE'],
+508171000000105,Severe learning disability,Learning Disability,,['NHSE'],
+518831000000103,Cause of learning disability,Learning Disability,,['NHSE'],
+984681000000101,Profound learning disability,Learning Disability,,['NHSE'],
+962361000000105,Learning disability care plan,Learning Disability,,['NHSE'],
+1239331000000100,Significant intellectual disability,Learning Disability,,['NHSE'],
+984661000000105,Mild learning disability,Learning Disability,,['NHSE'],
+1366181000000109,Under care of learning disability team,Learning Disability,,['NHSE'],
+962351000000107,Community learning disability care plan,Learning Disability,,['NHSE'],

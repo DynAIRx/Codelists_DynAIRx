@@ -1,0 +1,86 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comment
+109913001,"Benign neoplasm of meninges, unspecified",Benign tumour,,['Lauren_codelist'],
+119423009,Benign teratoma of ovary,Benign tumour,,['Lauren_codelist'],
+188838004,Benign neoplasm of rectum and anal canal,Benign tumour,,['Lauren_codelist'],
+188838004,Benign neoplasm of rectum or anal canal NOS,Benign tumour,,['Lauren_codelist'],
+189162003,"Benign neoplasm of brain, supratentorial",Benign tumour,,['Lauren_codelist'],
+189179009,Benign neoplasm of Rathke's pouch,Benign tumour,,['Lauren_codelist'],
+189180007,Benign neoplasm of sella turcica,Benign tumour,,['Lauren_codelist'],
+255171005,Jejunal polyp,Benign tumour,,['Lauren_codelist'],
+255172003,Benign neoplasm of ileocaecal valve,Benign tumour,,['Lauren_codelist'],
+255173008,Benign papilloma rectum,Benign tumour,,['Lauren_codelist'],
+271479005,Benign neoplasm of pituitary gland and craniopharyngeal duct,Benign tumour,,['Lauren_codelist'],
+73861008,Duodenal polyp,Benign tumour,,['Lauren_codelist' 'Lauren_codelist'],
+73861008,Polyp of duodenum,Benign tumour,,['Lauren_codelist'],
+78809005,Gastric polyp,Benign tumour,,['Lauren_codelist' 'Lauren_codelist'],
+78809005,Polyp of stomach,Benign tumour,,['Lauren_codelist'],
+91971005,Benign neoplasm of anal canal,Benign tumour,,['Lauren_codelist'],
+91978004,Benign neoplasm of anus NOS,Benign tumour,,['Lauren_codelist'],
+91979007,Benign neoplasm of aortic body,Benign tumour,,['Lauren_codelist'],
+91981009,Benign neoplasm of appendix,Benign tumour,,['Lauren_codelist'],
+91985000,Benign neoplasm of ascending colon,Benign tumour,,['Lauren_codelist'],
+92020008,Benign neoplasm of body of stomach,Benign tumour,,['Lauren_codelist'],
+92021007,Benign neoplasm of corpus uteri NOS,Benign tumour,,['Lauren_codelist'],
+92030004,Benign neoplasm of brain,Benign tumour,,['Lauren_codelist'],
+92040001,Benign neoplasm of caecum,Benign tumour,,['Lauren_codelist'],
+92042009,Benign neoplasm of stomach cardia,Benign tumour,,['Lauren_codelist'],
+92044005,Benign neoplasm of carotid body,Benign tumour,,['Lauren_codelist'],
+92048008,Benign neoplasm of brain or other nervous system NOS,Benign tumour,,['Lauren_codelist'],
+92051001,Benign neoplasm of cerebral meninges,Benign tumour,,['Lauren_codelist'],
+92051001,Benign neoplasm of cerebral meninges NOS,Benign tumour,,['Lauren_codelist'],
+92063006,Benign neoplasm of coccygeal body,Benign tumour,,['Lauren_codelist'],
+92065004,Benign neoplasm of colon,Benign tumour,,['Lauren_codelist'],
+92065004,Benign neoplasm of colon NOS,Benign tumour,,['Lauren_codelist'],
+92071005,Benign neoplasm of cranial nerves,Benign tumour,,['Lauren_codelist'],
+92072003,Benign neoplasm of craniopharyngeal duct,Benign tumour,,['Lauren_codelist'],
+92076000,Benign neoplasm of descending colon,Benign tumour,,['Lauren_codelist'],
+92080005,Benign neoplasm of duodenum,Benign tumour,,['Lauren_codelist'],
+92085000,Benign neoplasm of aortic body and other paraganglia,Benign tumour,,['Lauren_codelist'],
+92085000,Benign neoplasm of aortic body and other paraganglia NOS,Benign tumour,,['Lauren_codelist'],
+92086004,Benign neoplasm of endometrium NEC,Benign tumour,,['Lauren_codelist'],
+92116006,Benign neoplasm of fundus of stomach,Benign tumour,,['Lauren_codelist'],
+92121009,Benign neoplasm of glomus jugulare,Benign tumour,,['Lauren_codelist'],
+92133004,Benign neoplasm of hepatic flexure of colon,Benign tumour,,['Lauren_codelist'],
+92140003,Benign neoplasm of ileum,Benign tumour,,['Lauren_codelist'],
+92151003,Benign neoplasm of small intestine or duodenum NOS,Benign tumour,,['Lauren_codelist'],
+92162003,Benign neoplasm of jejunum,Benign tumour,,['Lauren_codelist'],
+92239009,Benign neoplasm of myometrium NEC,Benign tumour,,['Lauren_codelist'],
+92247009,Benign neoplasm of brain and other parts of nervous system,Benign tumour,,['Lauren_codelist'],
+92260003,Benign neoplasm of ovary,Benign tumour,,['Lauren_codelist'],
+92294001,Benign neoplasm of pineal gland,Benign tumour,,['Lauren_codelist'],
+92296004,Benign neoplasm of pituitary gland,Benign tumour,,['Lauren_codelist'],
+92310007,Benign neoplasm of pyloric antrum,Benign tumour,,['Lauren_codelist'],
+92311006,Benign neoplasm of pylorus of stomach,Benign tumour,,['Lauren_codelist'],
+92314003,Benign neoplasm of rectosigmoid junction,Benign tumour,,['Lauren_codelist'],
+92318000,Benign neoplasm of rectum,Benign tumour,,['Lauren_codelist'],
+92343006,Benign neoplasm of sigmoid colon,Benign tumour,,['Lauren_codelist'],
+92405007,Benign neoplasm of spinal cord,Benign tumour,,['Lauren_codelist'],
+92406008,Benign neoplasm of spinal meninges,Benign tumour,,['Lauren_codelist'],
+92406008,Benign neoplasm of spinal meninges NOS,Benign tumour,,['Lauren_codelist'],
+92409001,Benign neoplasm of splenic flexure of colon,Benign tumour,,['Lauren_codelist'],
+92411005,Benign neoplasm of stomach,Benign tumour,,['Lauren_codelist'],
+92411005,Benign neoplasm of stomach NOS,Benign tumour,,['Lauren_codelist'],
+92448001,Benign neoplasm of transverse colon,Benign tumour,,['Lauren_codelist'],
+92470003,Benign neoplasm corpus uteri NEC,Benign tumour,,['Lauren_codelist'],
+92470003,Benign neoplasm of other specified sites of uterus,Benign tumour,,['Lauren_codelist'],
+92470003,Benign neoplasm of uterine fundus NEC,Benign tumour,,['Lauren_codelist'],
+92470003,Benign neoplasm of uterus NOS,Benign tumour,,['Lauren_codelist'],
+92470003,[X]Benign neoplasm of other parts of uterus,Benign tumour,,['Lauren_codelist'],
+126949007,Acoustic Neuroma,Benign tumour,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+126949007,[M]Acoustic neuroma,Benign tumour,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+119423009,Dermoid cyst of ovary,Benign tumour,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+35701008,[M]Angioblastic meningioma,Benign tumour,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+189164002,Cerebral meningioma,Benign tumour,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+389701000000109,[M]Haemangiopericytic meningioma,Benign tumour,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+146801000119103,[M]Leiomyoma NOS,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+90955001,[M]Cellular leiomyoma,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+93616000,Mural fibroids,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+95280005,Subserous uterine leiomyoma,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+93616000,Intramural uterine leiomyoma,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+95279007,Submucous uterine leiomyoma,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+95315005,Fibroids,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+95315005,Uterine leiomyoma - fibroids,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+42010004,Excision fibroid,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+95315005,Uterine leiomyoma NOS,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+396341000000101,[M]Leiomyomatous neoplasms,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour
+461861000000108,[M]Leiomyomatous neoplasm NOS,Fibroids,,['Lauren_codelist'],Laurens instruction to add this Benign tumour

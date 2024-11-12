@@ -8,8 +8,7 @@
 109835005,"Malignant neoplasm, overlapping lesion of oesophagus",Cancer Solid organ,,,['Lauren_codelist'],,,,,
 109836006,"Malignant neoplasm, overlapping lesion of stomach",Cancer Solid organ,,,['Lauren_codelist'],,,,,
 109848009,"Malignant neoplasm, overlapping lesion of pancreas",Cancer Solid organ,,,['Lauren_codelist'],,,,,
-109876001,"Malignant neoplasm of descended testis; Malignant neoplasm of descended testis NOS
-",Cancer Solid organ,,,['Lauren_codelist'],,,,,Categories of Cancer
+109876001,"Malignant neoplasm of descended testis; Malignant neoplasm of descended testis NOS",Cancer Solid organ,,,['Lauren_codelist'],,,,,Categories of Cancer
 126879004,Malignant neoplasm of kidney or urinary organs NOS; Malignant neoplasm of other urinary organs,Cancer Solid organ,,,['Lauren_codelist'],,,,,CNS
 126909004,Malignant neoplasm of other site of uterine body,Cancer Solid organ,,,['Lauren_codelist'],,,,,Resp
 126952004,Malignant neoplasm of other part of brain NOS; Malignant neoplasm of other parts of brain,Cancer Solid organ,,,['Lauren_codelist'],,,,,"gastrointestinal (could subdivide into liver, gall bladder, bowel, pancreas),"
@@ -187,7 +186,7 @@
 313428008,Seminoma of undescended testis,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 313429000,Seminoma of descended testis,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 315058005,Hereditary nonpolyposis colon cancer,Cancer Solid organ,,,['Lauren_codelist'],,,,,
-3.43E+14,Siewert type I adenocarcinoma,Cancer Solid organ,,,['Lauren_codelist'],,,,,
+342571000000109,Siewert type I adenocarcinoma,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 363348004,"Malignant neoplasm of lip; Malignant neoplasm of lip unspecified, inner aspect; Malignant neoplasm of lip, unspecified; Malignant neoplasm of lip, unspecified, external; Malignant neoplasm of lip, unspecified, lipstick area; Malignant neoplasm of lip, vermilion border NOS",Cancer Solid organ,,,['Lauren_codelist'],,,,,
 363349007,Malignant neoplasm of anterior wall of stomach NEC; Malignant neoplasm of other specified site of stomach; Malignant neoplasm of other specified site of stomach NOS; Malignant neoplasm of posterior wall of stomach NEC; Malignant neoplasm of stomach NOS,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 363350007,Malignant neoplasm of caecum,Cancer Solid organ,,,['Lauren_codelist'],,,,,
@@ -243,7 +242,7 @@
 399326009,Malignant neoplasm of other site of urinary bladder; Malignant neoplasm of urinary bladder; Malignant neoplasm of urinary bladder NOS,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 417417007,Teratoma of undescended testis,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 421249001,"Malignant neoplasm of upper lip, external",Cancer Solid organ,,,['Lauren_codelist'],,,,,
-4.27E+14,[V]Personal history of malignant neoplasm of prostate,Cancer Solid organ,,,['Lauren_codelist'],,,,,
+428262008,[V]Personal history of malignant neoplasm of prostate,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 428061005,Malignant neoplasm of brain; Malignant neoplasm of brain NOS,Cancer Solid organ,,,['Lauren_codelist'],,,,,
 430621000,"Malignant neoplasm of trachea, bronchus and lung",Cancer Solid organ,,,['Lauren_codelist'],,,,,
 448868009,Malignant neoplasm of lateral wall of oropharynx,Cancer Solid organ,,,['Lauren_codelist'],,,,,

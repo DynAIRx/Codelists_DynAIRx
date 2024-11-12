@@ -109,3 +109,5 @@ SnomedCTConceptId,Term,Disease,Otherinstructions,origin,Comments
 84781002,Sporadic cretinism,Thyroid Problem,,['NHSD_hypothyroidism'],
 89261000,Isolated thyrotropin deficiency,Thyroid Problem,,['NHSD_hypothyroidism'],
 8868001,Dyshormonogenetic goiter AND iodide leak,Thyroid Problem,,['NHSD_hypothyroidism'],
+1027151000000105,Thyroid stimulating hormone level,Thyroid Problem,,['efi'],
+1022791000000101,Serum thyroid stimulating hormone level,Thyroid Problem,,['efi'],
